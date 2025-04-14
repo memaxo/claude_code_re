@@ -12,12 +12,14 @@
 
 ## Phase 2: Progressive Renaming & Deeper Analysis 🔄
 
-### 2.1 Message Flow Analysis
-- [ ] Identify and rename message-related functions and variables
-  - Look for `messages.create`, `beta.messages.stream`, etc.
-  - Find associated parsing, formatting, and handling functions
-- [ ] Document message structure and flow in CODE_ANALYSIS.md
-- [ ] Create visualization of message lifecycle
+### 2.1 Message Flow Analysis ✅
+- [x] Identify and rename message-related functions and variables
+  - Identified `formatMessages`, `Gn5`, `Wn5`, `generateMetadata`, etc.
+  - Examined message formatting and handling for API communication
+- [x] Document message structure and flow in CODE_ANALYSIS.md
+  - Added sections on message formatting, API streaming, and token counting
+- [x] Create visualization of message lifecycle
+  - Documented the 5-step message lifecycle in FINDINGS.md
 
 ### 2.2 Tool System Expansion
 - [ ] Identify additional tool-related variables beyond primary set

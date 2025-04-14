@@ -306,58 +306,160 @@ This function handles tool execution:
 
 ## Tool System - Message Processing
 
+### Tool Message Handling
+
 ```javascript
-function* O61(I, Z, G, W, B, V) {
-  let Y = I.name,
-    w = B.options.tools.find((H) => H.name === Y);
+function* processToolMessage(input, options, context, config, state, result) {
+  let Y = input.name,
+    w = state.options.tools.find((H) => H.name === Y);
   if (!w) {
-    x1("tengu_tool_use_error", {
+    trackEvent("tengu_tool_use_error", {
       error: `No such tool available: ${Y}`,
       toolName: Y,
-      toolUseID: I.id,
+      toolUseID: input.id,
       isMcp: !1,
     }),
-      yield z5({
+      yield createToolResult({
         content: [
           {
             type: "tool_result",
             content: `Error: No such tool available: ${Y}`,
             is_error: !0,
-            tool_use_id: I.id,
+            tool_use_id: input.id,
           },
         ],
         toolUseResult: `Error: No such tool available: ${Y}`,
       });
     return;
   }
-  let X = I.input;
+  let X = input.input;
   try {
-    if (B.abortController.signal.aborted) {
-      x1("tengu_tool_use_cancelled", {
+    if (state.abortController.signal.aborted) {
+      trackEvent("tengu_tool_use_cancelled", {
         toolName: w.name,
-        toolUseID: I.id,
+        toolUseID: input.id,
         isMcp: w.isMcp ?? !1,
       });
-      let H = Fi2(I.id);
-      yield z5({ content: [H], toolUseResult: sU });
+      let H = Fi2(input.id);
+      yield createToolResult({ content: [H], toolUseResult: sU });
       return;
     }
-    for await (let H of cc5(w, I.id, Z, X, B, W, G, V)) yield H;
+    for await (let H of executeToolCall(w, input.id, options, X, state, config, context, result)) yield H;
   } catch (H) {
-    l1(H instanceof Error ? H : new Error(String(H))),
-      yield z5({
+    logError(H instanceof Error ? H : new Error(String(H))),
+      yield createToolResult({
         content: [
           {
             type: "tool_result",
             content: "Error calling tool",
             is_error: !0,
-            tool_use_id: I.id,
+            tool_use_id: input.id,
           },
         ],
         toolUseResult: "Error calling tool",
       });
   }
 }
+```
+
+### Tool Execution
+
+```javascript
+async function* executeToolCall(input, options, context, config, state, result, Y, w) {
+  let X = input.inputSchema.safeParse(config);
+  if (!X.success) {
+    let D = nc5(input.name, X.error);
+    trackEvent("tengu_tool_use_error", {
+      error: "InputValidationError",
+      messageID: Y.message.id,
+      toolName: input.name,
+    }),
+      yield createToolResult({
+        content: [
+          {
+            type: "tool_result",
+            content: `InputValidationError: ${D}`,
+            is_error: !0,
+            tool_use_id: options,
+          },
+        ],
+        toolUseResult: `InputValidationError: ${X.error.message}`,
+      });
+    return;
+  }
+  let H = preprocessToolInput(input, config),
+    J = await input.validateInput?.(H, state);
+  if (J?.result === !1) {
+    trackEvent("tengu_tool_use_error", { messageID: Y.message.id, toolName: input.name }),
+      yield createToolResult({
+        content: [
+          {
+            type: "tool_result",
+            content: J.message,
+            is_error: !0,
+            tool_use_id: options,
+          },
+        ],
+        toolUseResult: `Error calling tool: ${J.message}`,
+      });
+    return;
+  }
+  let A = w ? { result: !0, updatedInput: H } : await result(input, H, state, Y);
+  if (A.result === !1) {
+    yield createToolResult({
+      content: [
+        {
+          type: "tool_result",
+          content: A.message,
+          is_error: !0,
+          tool_use_id: options,
+        },
+      ],
+      toolUseResult: `Error calling tool: ${A.message}`,
+    });
+    return;
+  }
+  try {
+    let D = input.call(A.updatedInput, state, result, Y);
+    for await (let K of D)
+      switch (K.type) {
+        case "result":
+          trackEvent("tengu_tool_use_success", {
+            messageID: Y.message.id,
+            toolName: input.name,
+            isMcp: input.isMcp ?? !1,
+          }),
+            yield createToolResult({
+              content: [
+                {
+                  type: "tool_result",
+                  content: input.renderResultForAssistant(K.data),
+                  tool_use_id: options,
+                },
+              ],
+              toolUseResult: K.data,
+            });
+          break;
+        // Additional cases for progress and other statuses
+      }
+  } catch (error) {
+    // Error handling
+  }
+}
+```
+
+### Tool Result Creation
+
+```javascript
+function createToolResult({ content: input, toolUseResult: options }) {
+  return {
+    type: "user",
+    message: { role: "user", content: input },
+    uuid: Qp(),
+    toolUseResult: options,
+  };
+}
+```
 ```
 
 This function is responsible for tool message processing:
@@ -394,31 +496,130 @@ This shows the command registration pattern using commander.js:
 4. Handlers typically await asynchronous operations before completing
 5. The pattern demonstrates the non-interactive execution path
 
-## API Client Streaming Pattern
+## Message Flow and API Communication
+
+### Message Formatting
+
+```javascript
+function formatMessages(input) {
+  return input.map((options, context) => {
+    return options.type === "user"
+      ? Gn5(options, context > input.length - 3)
+      : Wn5(options, context > input.length - 3);
+  });
+}
+```
+
+This function transforms the internal message representation into the format expected by the API:
+1. Maps over each message in the input array
+2. Uses `Gn5` for user messages and `Wn5` for assistant messages
+3. Passes a context flag if the message is among the last 3 messages in the conversation
+4. Both `Gn5` and `Wn5` handle different message content formats (string vs. structured)
+
+### User Message Formatting
+
+```javascript
+function Gn5(input, options = !1) {
+  if (options)
+    if (typeof input.message.content === "string")
+      return {
+        role: "user",
+        content: [
+          {
+            type: "text",
+            text: input.message.content,
+            ...(CM ? { cache_control: { type: "ephemeral" } } : {}),
+          },
+        ],
+      };
+    else
+      return {
+        role: "user",
+        // Additional handling for structured content
+      };
+}
+```
+
+This function formats user messages:
+1. Takes a message object and a flag indicating if it's a recent message
+2. Handles both string content and structured content
+3. Adds cache control metadata when the `CM` flag is enabled
+4. Returns a properly formatted object for the API
+
+### API Client Streaming Pattern
 
 ```javascript
 Y.beta.messages.stream(
   {
-    model: V.model,
+    model: result.model,
     max_tokens: $1,
-    messages: En2(I),
+    messages: formatMessages(input),
     temperature: A,
     system: w,
-    tools: [...X, ...(V.extraToolSchemas ?? [])],
-    tool_choice: V.toolChoice,
+    tools: [...X, ...(result.extraToolSchemas ?? [])],
+    tool_choice: result.toolChoice,
     ...(J ? { betas: H } : {}),
-    metadata: Np(),
+    metadata: generateMetadata(),
+    ...(context > 0
+      ? { thinking: { budget_tokens: z1, type: "enabled" } }
+      : {}),
   }
 )
 ```
 
 This code snippet shows how the API client makes streaming requests:
 1. Uses the newer beta stream API (`beta.messages.stream`)
-2. Provides the model, messages, and parameters
-3. Includes tools in the request
-4. Passes system message and temperature
+2. Provides the model, messages formatted with `formatMessages`, and parameters
+3. Includes tools in the request from both built-in and extra schemas
+4. Passes system message and temperature settings
 5. Conditionally adds beta features when `J` is true
-6. Includes metadata for tracking
+6. Includes metadata from `generateMetadata()`
+7. Optionally enables "thinking" mode with a token budget if context > 0
+
+### Metadata Generation
+
+```javascript
+function generateMetadata() {
+  return { user_id: Cb() };
+}
+```
+
+A simple function that:
+1. Creates metadata for API requests
+2. Includes a user ID from the `Cb()` function
+3. Used to identify requests in telemetry and tracking
+
+### Token Counting
+
+```javascript
+async function Pg2(input, options) {
+  try {
+    if (!input || input.length === 0) return 0;
+    let context = await JZ(),
+      config = await getApiKey(options);
+    if (!config)
+      throw new Error("No Anthropic API key available for token counting");
+    return (
+      await (
+        await createApiClient({
+          apiKey: config,
+          maxRetries: 1,
+          model: context,
+          isNonInteractiveSession: options,
+        })
+      ).messages.countTokens({ model: context, messages: input })
+    ).input_tokens;
+  } catch (context) {
+    return logError(context), null;
+  }
+}
+```
+
+This function handles token counting for messages:
+1. Creates an API client specifically for token counting
+2. Uses the `.messages.countTokens()` method to get token count
+3. Returns only the `input_tokens` portion of the response
+4. Includes error handling that logs errors but returns null
 
 ## API OAuth Configuration
 

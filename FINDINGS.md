@@ -48,13 +48,13 @@
 
 ### Tool System Architecture
 - Found multiple tool definitions with a common interface pattern:
-  - `P9`: Bash tool for executing shell commands
-  - `HI`: Edit tool for modifying files
-  - `iY`: View tool for reading files
-  - `Zw`: GlobTool for finding files with patterns
-  - `aX`: GrepTool for searching file contents
-  - `$J`: LS tool for listing directory contents
-- Tools are stored in an array `sl5` that contains the primary tools
+  - `BashTool`: Tool for executing shell commands
+  - `EditTool`: Tool for modifying files
+  - `ViewTool`: Tool for reading files
+  - `GlobTool`: Tool for finding files with patterns
+  - `GrepTool`: Tool for searching file contents
+  - `LSTool`: Tool for listing directory contents
+- Tools are stored in an array `primaryTools` that contains the primary tools
 - Tool objects share a common structure:
   - `name`: String identifier for the tool
   - `description`: Function returning descriptive text
@@ -64,16 +64,39 @@
   - `userFacingName`: Function returning display name
 - Tool execution flow:
   - Input validation with schema (`inputSchema.safeParse`)
-  - Input preprocessing via `Ov1` function
-  - Permission checking
+  - Input preprocessing via `preprocessToolInput` function
+  - Permission checking through a dedicated function
   - Execution via tool's `call` method
   - Result processing and conversion to message format
 - Message format for tool interactions:
   - `tool_use`: Request to use a tool with input
   - `tool_result`: Result of tool execution
 - Tools can be rendered in UI with special components:
-  - `ri2`: Renders tool use requests
-  - `ni2`: Renders tool results
+  - `ToolUseRenderer`: Renders tool use requests
+  - `ToolResultRenderer`: Renders tool results
+
+### Message Flow Architecture
+- The application uses a structured message flow for API communication:
+  - Messages are stored in an internal format
+  - Converted to API format using `formatMessages` before sending
+  - User messages are formatted using `Gn5` function
+  - Assistant messages are formatted using `Wn5` function
+  - Recent messages (last 3) get special handling
+- API communication is primarily through streaming:
+  - Uses the `beta.messages.stream` API endpoint
+  - Enables the "thinking" feature for certain requests
+  - Includes metadata with each request using `generateMetadata`
+  - Handles tools through special parameters in the request
+- Token counting is handled separately:
+  - Creates a dedicated API client just for token counting
+  - Uses the `messages.countTokens` API endpoint
+  - Returns only the input token count
+- Message lifecycle:
+  1. Internal message representation created
+  2. Message formatted for API with `formatMessages`
+  3. API request made through streaming endpoint
+  4. Response processed and may trigger tool usage
+  5. Tool results formatted as messages to continue the conversation
 
 ### UI Components
 - Found React component usage (`createElement`) indicating the CLI likely uses React for its UI

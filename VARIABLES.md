@@ -106,6 +106,22 @@ This document tracks the mapping of minified variable names to their likely purp
 | `zr2` | Unknown UI-related function | Located near other UI components |
 | `Fr2` | Function to format pasted text | Formats text with line counts |
 
+## Message Flow and API Communication
+
+| Variable | Purpose | Evidence |
+|----------|---------|----------|
+| `formatMessages` | Formats messages for API calls | Used before API requests to transform message format |
+| `Gn5` | Formats user messages | Called by `formatMessages` for user messages |
+| `Wn5` | Formats assistant messages | Called by `formatMessages` for assistant messages |
+| `generateMetadata` | Creates metadata for API requests | Returns an object with user ID info |
+| `Pg2` | Counts tokens in messages | Uses API to count tokens in messages |
+| `e61` | Splits system prompt into parts | Processes system prompt text |
+| `Vn5` | Creates API request with system/user messages | Sets up API request parameters |
+| `JZ` | Gets the current model | Used to determine model for API calls |
+| `createToolResult` | Creates tool result message | Transforms tool output into message format |
+| `Ki2` | Handles tool message continuation | Used for progressive tool execution |
+| `sU` | Represents canceled tool message | Used when a tool is canceled |
+
 ## Note on Naming Patterns
 
 The variable naming follows typical minification patterns:
