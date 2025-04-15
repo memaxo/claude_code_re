@@ -1,0 +1,111 @@
+{
+  "branches": {
+    "if": [
+      {
+        "line": 237203,
+        "hasElse": false,
+        "test": "P9.isReadOnly(...)",
+        "consequentStart": 237204,
+        "consequentEnd": 237211,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 237215,
+        "hasElse": false,
+        "test": "B !== void0",
+        "consequentStart": 237216,
+        "consequentEnd": 237220,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 237222,
+        "hasElse": false,
+        "test": "V !== void0",
+        "consequentStart": 237223,
+        "consequentEnd": 237227,
+        "alternateStart": null,
+        "alternateEnd": null
+      }
+    ],
+    "switch": [],
+    "ternary": []
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": []
+  },
+  "errorHandling": {
+    "try": []
+  },
+  "returns": [
+    {
+      "line": 237204,
+      "hasArgument": true,
+      "argumentType": "ObjectExpression"
+    },
+    {
+      "line": 237216,
+      "hasArgument": true,
+      "argumentType": "ObjectExpression"
+    },
+    {
+      "line": 237223,
+      "hasArgument": true,
+      "argumentType": "ObjectExpression"
+    },
+    {
+      "line": 237228,
+      "hasArgument": true,
+      "argumentType": "ObjectExpression"
+    }
+  ],
+  "yields": [],
+  "awaits": [],
+  "functionCalls": {
+    "P9.isReadOnly": [
+      {
+        "line": 237203,
+        "argumentCount": 1
+      }
+    ],
+    "ou": [
+      {
+        "line": 237212,
+        "argumentCount": 2
+      }
+    ],
+    "[expr].trim": [
+      {
+        "line": 237213,
+        "argumentCount": 0
+      }
+    ],
+    "G.get": [
+      {
+        "line": 237214,
+        "argumentCount": 1
+      },
+      {
+        "line": 237221,
+        "argumentCount": 1
+      }
+    ],
+    "mj2": [
+      {
+        "line": 237221,
+        "argumentCount": 1
+      }
+    ],
+    "Id1": [
+      {
+        "line": 237232,
+        "argumentCount": 1
+      }
+    ]
+  }
+}

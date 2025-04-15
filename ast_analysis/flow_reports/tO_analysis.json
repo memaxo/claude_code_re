@@ -1,0 +1,122 @@
+{
+  "branches": {
+    "if": [
+      {
+        "line": 250301,
+        "hasElse": false,
+        "test": "qp",
+        "consequentStart": 250301,
+        "consequentEnd": 250301,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 250305,
+        "hasElse": false,
+        "test": "Y",
+        "consequentStart": 250306,
+        "consequentEnd": 250307,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 250314,
+        "hasElse": false,
+        "test": "b3",
+        "consequentStart": 250314,
+        "consequentEnd": 250317,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 250318,
+        "hasElse": false,
+        "test": "s3",
+        "consequentStart": 250318,
+        "consequentEnd": 250322,
+        "alternateStart": null,
+        "alternateEnd": null
+      }
+    ],
+    "switch": [],
+    "ternary": []
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": []
+  },
+  "errorHandling": {
+    "try": []
+  },
+  "returns": [
+    {
+      "line": 250301,
+      "hasArgument": true,
+      "argumentType": "Identifier"
+    },
+    {
+      "line": 250316,
+      "hasArgument": true,
+      "argumentType": "SequenceExpression"
+    },
+    {
+      "line": 250321,
+      "hasArgument": true,
+      "argumentType": "SequenceExpression"
+    },
+    {
+      "line": 250323,
+      "hasArgument": true,
+      "argumentType": "NewExpression"
+    }
+  ],
+  "yields": [],
+  "awaits": [],
+  "functionCalls": {
+    "$00": [
+      {
+        "line": 250302,
+        "argumentCount": 1
+      }
+    ],
+    "Zn5": [
+      {
+        "line": 250303,
+        "argumentCount": 0
+      }
+    ],
+    "Au": [
+      {
+        "line": 250304,
+        "argumentCount": 0
+      }
+    ],
+    "parseInt": [
+      {
+        "line": 250311,
+        "argumentCount": 2
+      }
+    ],
+    "String": [
+      {
+        "line": 250311,
+        "argumentCount": 1
+      }
+    ],
+    "In5": [
+      {
+        "line": 250312,
+        "argumentCount": 0
+      }
+    ],
+    "uY": [
+      {
+        "line": 250323,
+        "argumentCount": 1
+      }
+    ]
+  }
+}

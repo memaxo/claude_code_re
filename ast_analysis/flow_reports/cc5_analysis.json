@@ -1,0 +1,277 @@
+{
+  "branches": {
+    "if": [
+      {
+        "line": 244891,
+        "hasElse": false,
+        "test": "!X.success",
+        "consequentStart": 244891,
+        "consequentEnd": 244910,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 244913,
+        "hasElse": false,
+        "test": "ChainExpression === !1",
+        "consequentStart": 244913,
+        "consequentEnd": 244927,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 244929,
+        "hasElse": false,
+        "test": "A.result === !1",
+        "consequentStart": 244929,
+        "consequentEnd": 244942,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 244984,
+        "hasElse": false,
+        "test": "!D instanceof iZ",
+        "consequentStart": 244985,
+        "consequentEnd": 244990,
+        "alternateStart": null,
+        "alternateEnd": null
+      }
+    ],
+    "switch": [
+      {
+        "line": 244946,
+        "discriminant": "K.type",
+        "cases": [
+          {
+            "test": "\"result\"",
+            "consequentStart": 244948,
+            "consequentEnd": 244963
+          },
+          {
+            "test": "\"progress\"",
+            "consequentStart": 244965,
+            "consequentEnd": 244981
+          }
+        ]
+      }
+    ],
+    "ternary": [
+      {
+        "line": 244928,
+        "test": "w"
+      },
+      {
+        "line": 244985,
+        "test": "D instanceof Error"
+      }
+    ]
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": [
+      {
+        "line": 244945,
+        "left": "K",
+        "right": "D",
+        "await": true
+      }
+    ]
+  },
+  "errorHandling": {
+    "try": [
+      {
+        "line": 244943,
+        "blockStart": 244943,
+        "blockEnd": 244983,
+        "hasCatch": true,
+        "catchStart": 244983,
+        "catchEnd": 244998,
+        "catchParam": "D",
+        "hasFinally": false,
+        "finallyStart": null,
+        "finallyEnd": null
+      }
+    ]
+  },
+  "returns": [
+    {
+      "line": 244909,
+      "hasArgument": false,
+      "argumentType": null
+    },
+    {
+      "line": 244926,
+      "hasArgument": false,
+      "argumentType": null
+    },
+    {
+      "line": 244941,
+      "hasArgument": false,
+      "argumentType": null
+    }
+  ],
+  "yields": [
+    {
+      "line": 244898,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 244915,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 244930,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 244953,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 244970,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 244992,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    }
+  ],
+  "awaits": [
+    {
+      "line": 244912,
+      "argumentType": "ChainExpression"
+    },
+    {
+      "line": 244928,
+      "argumentType": "CallExpression"
+    }
+  ],
+  "functionCalls": {
+    "[expr].safeParse": [
+      {
+        "line": 244890,
+        "argumentCount": 1
+      }
+    ],
+    "nc5": [
+      {
+        "line": 244892,
+        "argumentCount": 2
+      }
+    ],
+    "x1": [
+      {
+        "line": 244893,
+        "argumentCount": 2
+      },
+      {
+        "line": 244914,
+        "argumentCount": 2
+      },
+      {
+        "line": 244948,
+        "argumentCount": 2
+      },
+      {
+        "line": 244965,
+        "argumentCount": 2
+      },
+      {
+        "line": 244986,
+        "argumentCount": 2
+      }
+    ],
+    "z5": [
+      {
+        "line": 244898,
+        "argumentCount": 1
+      },
+      {
+        "line": 244915,
+        "argumentCount": 1
+      },
+      {
+        "line": 244930,
+        "argumentCount": 1
+      },
+      {
+        "line": 244953,
+        "argumentCount": 1
+      },
+      {
+        "line": 244992,
+        "argumentCount": 1
+      }
+    ],
+    "Ov1": [
+      {
+        "line": 244911,
+        "argumentCount": 2
+      }
+    ],
+    "I.validateInput": [
+      {
+        "line": 244912,
+        "argumentCount": 2
+      }
+    ],
+    "V": [
+      {
+        "line": 244928,
+        "argumentCount": 4
+      }
+    ],
+    "I.call": [
+      {
+        "line": 244944,
+        "argumentCount": 4
+      }
+    ],
+    "I.renderResultForAssistant": [
+      {
+        "line": 244957,
+        "argumentCount": 1
+      }
+    ],
+    "Ki2": [
+      {
+        "line": 244970,
+        "argumentCount": 1
+      }
+    ],
+    "l1": [
+      {
+        "line": 244985,
+        "argumentCount": 1
+      }
+    ],
+    "String": [
+      {
+        "line": 244985,
+        "argumentCount": 1
+      }
+    ],
+    "lc5": [
+      {
+        "line": 244991,
+        "argumentCount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,11043 @@
+[
+  {
+    "nameValue": null,
+    "properties": [
+      "message",
+      "name",
+      "stack",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 579,
+        "column": 13
+      },
+      "end": {
+        "line": 579,
+        "column": 76
+      }
+    },
+    "range": [
+      14837,
+      14900
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "event",
+      "name",
+      "global"
+    ],
+    "location": {
+      "start": {
+        "line": 1064,
+        "column": 10
+      },
+      "end": {
+        "line": 1064,
+        "column": 42
+      }
+    },
+    "range": [
+      28508,
+      28540
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 2472,
+        "column": 11
+      },
+      "end": {
+        "line": 2472,
+        "column": 34
+      }
+    },
+    "range": [
+      66540,
+      66563
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "invalidProperty",
+      "name",
+      "trimEnd"
+    ],
+    "location": {
+      "start": {
+        "line": 5189,
+        "column": 34
+      },
+      "end": {
+        "line": 5193,
+        "column": 7
+      }
+    },
+    "range": [
+      143997,
+      144078
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "parentSampled",
+      "transactionContext",
+      "attributes",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 5641,
+        "column": 40
+      },
+      "end": {
+        "line": 5647,
+        "column": 7
+      }
+    },
+    "range": [
+      158489,
+      158657
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "parentSampled",
+      "transactionContext",
+      "attributes",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 5659,
+        "column": 40
+      },
+      "end": {
+        "line": 5665,
+        "column": 7
+      }
+    },
+    "range": [
+      159046,
+      159214
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 6027,
+        "column": 28
+      },
+      "end": {
+        "line": 6027,
+        "column": 72
+      }
+    },
+    "range": [
+      169375,
+      169419
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 6502,
+        "column": 28
+      },
+      "end": {
+        "line": 6502,
+        "column": 72
+      }
+    },
+    "range": [
+      183279,
+      183323
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "metric",
+      "timestamp",
+      "metricType",
+      "name",
+      "unit",
+      "tags"
+    ],
+    "location": {
+      "start": {
+        "line": 6646,
+        "column": 13
+      },
+      "end": {
+        "line": 6653,
+        "column": 9
+      }
+    },
+    "range": [
+      186781,
+      186942
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "packages",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 7164,
+        "column": 14
+      },
+      "end": {
+        "line": 7171,
+        "column": 7
+      }
+    },
+    "range": [
+      201488,
+      201691
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 7166,
+        "column": 32
+      },
+      "end": {
+        "line": 7169,
+        "column": 9
+      }
+    },
+    "range": [
+      201562,
+      201646
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 7229,
+        "column": 13
+      },
+      "end": {
+        "line": 7247,
+        "column": 7
+      }
+    },
+    "range": [
+      203194,
+      203775
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 7287,
+        "column": 13
+      },
+      "end": {
+        "line": 7317,
+        "column": 7
+      }
+    },
+    "range": [
+      204796,
+      205776
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 7377,
+        "column": 13
+      },
+      "end": {
+        "line": 7385,
+        "column": 7
+      }
+    },
+    "range": [
+      207200,
+      207395
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 7530,
+        "column": 13
+      },
+      "end": {
+        "line": 7545,
+        "column": 7
+      }
+    },
+    "range": [
+      211403,
+      211845
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "preprocessEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 7562,
+        "column": 13
+      },
+      "end": {
+        "line": 7577,
+        "column": 7
+      }
+    },
+    "range": [
+      212287,
+      212628
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "metric",
+      "timestamp",
+      "metricType",
+      "name",
+      "unit",
+      "tags"
+    ],
+    "location": {
+      "start": {
+        "line": 7620,
+        "column": 13
+      },
+      "end": {
+        "line": 7627,
+        "column": 9
+      }
+    },
+    "range": [
+      213904,
+      214065
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 7652,
+        "column": 13
+      },
+      "end": {
+        "line": 7658,
+        "column": 7
+      }
+    },
+    "range": [
+      214790,
+      214941
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "onlyIfParent",
+      "op",
+      "attributes",
+      "data"
+    ],
+    "location": {
+      "start": {
+        "line": 8639,
+        "column": 12
+      },
+      "end": {
+        "line": 8647,
+        "column": 13
+      }
+    },
+    "range": [
+      244344,
+      244631
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "value",
+      "rating",
+      "delta",
+      "entries",
+      "id",
+      "navigationType"
+    ],
+    "location": {
+      "start": {
+        "line": 9014,
+        "column": 13
+      },
+      "end": {
+        "line": 9022,
+        "column": 7
+      }
+    },
+    "range": [
+      255470,
+      255672
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "startTimestamp",
+      "endTimestamp",
+      "op",
+      "name",
+      "attributes",
+      "exclusiveTime",
+      "measurements"
+    ],
+    "location": {
+      "start": {
+        "line": 9638,
+        "column": 24
+      },
+      "end": {
+        "line": 9653,
+        "column": 9
+      }
+    },
+    "range": [
+      272048,
+      272621
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "transactionContext",
+      "name",
+      "parentSampled",
+      "attributes",
+      "location"
+    ],
+    "location": {
+      "start": {
+        "line": 9879,
+        "column": 26
+      },
+      "end": {
+        "line": 9885,
+        "column": 7
+      }
+    },
+    "range": [
+      279785,
+      279977
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "onlyIfParent",
+      "attributes",
+      "op"
+    ],
+    "location": {
+      "start": {
+        "line": 9929,
+        "column": 31
+      },
+      "end": {
+        "line": 9941,
+        "column": 11
+      }
+    },
+    "range": [
+      281314,
+      281663
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 10101,
+        "column": 11
+      },
+      "end": {
+        "line": 10101,
+        "column": 34
+      }
+    },
+    "range": [
+      286119,
+      286142
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "onlyIfParent",
+      "attributes",
+      "op"
+    ],
+    "location": {
+      "start": {
+        "line": 10151,
+        "column": 31
+      },
+      "end": {
+        "line": 10163,
+        "column": 11
+      }
+    },
+    "range": [
+      287854,
+      288241
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "startTimestamp",
+      "op",
+      "origin",
+      "metadata"
+    ],
+    "location": {
+      "start": {
+        "line": 10223,
+        "column": 12
+      },
+      "end": {
+        "line": 10231,
+        "column": 7
+      }
+    },
+    "range": [
+      289942,
+      290223
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "op",
+      "origin",
+      "metadata"
+    ],
+    "location": {
+      "start": {
+        "line": 10245,
+        "column": 16
+      },
+      "end": {
+        "line": 10250,
+        "column": 11
+      }
+    },
+    "range": [
+      290659,
+      290837
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "context"
+    ],
+    "location": {
+      "start": {
+        "line": 10312,
+        "column": 26
+      },
+      "end": {
+        "line": 10312,
+        "column": 59
+      }
+    },
+    "range": [
+      292723,
+      292756
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "op",
+      "trimEnd",
+      "data"
+    ],
+    "location": {
+      "start": {
+        "line": 10471,
+        "column": 16
+      },
+      "end": {
+        "line": 10480,
+        "column": 13
+      }
+    },
+    "range": [
+      298045,
+      298366
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "context"
+    ],
+    "location": {
+      "start": {
+        "line": 10614,
+        "column": 14
+      },
+      "end": {
+        "line": 10614,
+        "column": 47
+      }
+    },
+    "range": [
+      302803,
+      302836
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "afterAllSetup",
+      "options"
+    ],
+    "location": {
+      "start": {
+        "line": 10682,
+        "column": 13
+      },
+      "end": {
+        "line": 10761,
+        "column": 7
+      }
+    },
+    "range": [
+      304955,
+      307955
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "startTimestamp",
+      "origin",
+      "attributes"
+    ],
+    "location": {
+      "start": {
+        "line": 10723,
+        "column": 20
+      },
+      "end": {
+        "line": 10730,
+        "column": 13
+      }
+    },
+    "range": [
+      306561,
+      306893
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "origin",
+      "attributes"
+    ],
+    "location": {
+      "start": {
+        "line": 10741,
+        "column": 24
+      },
+      "end": {
+        "line": 10745,
+        "column": 17
+      }
+    },
+    "range": [
+      307285,
+      307490
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "op",
+      "trimEnd",
+      "data"
+    ],
+    "location": {
+      "start": {
+        "line": 10802,
+        "column": 14
+      },
+      "end": {
+        "line": 10811,
+        "column": 11
+      }
+    },
+    "range": [
+      309344,
+      309599
+    ]
+  },
+  {
+    "nameValue": "node",
+    "properties": [
+      "name",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 11041,
+        "column": 17
+      },
+      "end": {
+        "line": 11041,
+        "column": 66
+      }
+    },
+    "range": [
+      316709,
+      316758
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 11500,
+        "column": 13
+      },
+      "end": {
+        "line": 11516,
+        "column": 7
+      }
+    },
+    "range": [
+      329458,
+      329943
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 11617,
+        "column": 13
+      },
+      "end": {
+        "line": 11623,
+        "column": 7
+      }
+    },
+    "range": [
+      332457,
+      332569
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 11658,
+        "column": 15
+      },
+      "end": {
+        "line": 11658,
+        "column": 59
+      }
+    },
+    "range": [
+      333288,
+      333332
+    ]
+  },
+  {
+    "nameValue": "fedora-release",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11712,
+        "column": 6
+      },
+      "end": {
+        "line": 11712,
+        "column": 53
+      }
+    },
+    "range": [
+      334684,
+      334731
+    ]
+  },
+  {
+    "nameValue": "redhat-release",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11713,
+        "column": 6
+      },
+      "end": {
+        "line": 11713,
+        "column": 70
+      }
+    },
+    "range": [
+      334739,
+      334803
+    ]
+  },
+  {
+    "nameValue": "redhat_version",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11714,
+        "column": 6
+      },
+      "end": {
+        "line": 11714,
+        "column": 60
+      }
+    },
+    "range": [
+      334811,
+      334865
+    ]
+  },
+  {
+    "nameValue": "SuSE-release",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11715,
+        "column": 6
+      },
+      "end": {
+        "line": 11715,
+        "column": 55
+      }
+    },
+    "range": [
+      334873,
+      334922
+    ]
+  },
+  {
+    "nameValue": "lsb-release",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11716,
+        "column": 6
+      },
+      "end": {
+        "line": 11716,
+        "column": 70
+      }
+    },
+    "range": [
+      334930,
+      334994
+    ]
+  },
+  {
+    "nameValue": "debian_version",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11717,
+        "column": 6
+      },
+      "end": {
+        "line": 11717,
+        "column": 53
+      }
+    },
+    "range": [
+      335002,
+      335049
+    ]
+  },
+  {
+    "nameValue": "debian_release",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11718,
+        "column": 6
+      },
+      "end": {
+        "line": 11718,
+        "column": 53
+      }
+    },
+    "range": [
+      335057,
+      335104
+    ]
+  },
+  {
+    "nameValue": "arch-release",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11719,
+        "column": 6
+      },
+      "end": {
+        "line": 11719,
+        "column": 55
+      }
+    },
+    "range": [
+      335112,
+      335161
+    ]
+  },
+  {
+    "nameValue": "gentoo-release",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11720,
+        "column": 6
+      },
+      "end": {
+        "line": 11720,
+        "column": 59
+      }
+    },
+    "range": [
+      335169,
+      335222
+    ]
+  },
+  {
+    "nameValue": "novell-release",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11721,
+        "column": 6
+      },
+      "end": {
+        "line": 11721,
+        "column": 57
+      }
+    },
+    "range": [
+      335230,
+      335281
+    ]
+  },
+  {
+    "nameValue": "alpine-release",
+    "properties": [
+      "name",
+      "distros"
+    ],
+    "location": {
+      "start": {
+        "line": 11722,
+        "column": 6
+      },
+      "end": {
+        "line": 11722,
+        "column": 59
+      }
+    },
+    "range": [
+      335289,
+      335342
+    ]
+  },
+  {
+    "nameValue": "Mac OS X",
+    "properties": [
+      "kernel_version",
+      "name",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 11740,
+        "column": 12
+      },
+      "end": {
+        "line": 11744,
+        "column": 5
+      }
+    },
+    "range": [
+      335867,
+      335997
+    ]
+  },
+  {
+    "nameValue": "Linux",
+    "properties": [
+      "kernel_version",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 11765,
+        "column": 12
+      },
+      "end": {
+        "line": 11765,
+        "column": 59
+      }
+    },
+    "range": [
+      336515,
+      336562
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 11848,
+        "column": 13
+      },
+      "end": {
+        "line": 11854,
+        "column": 7
+      }
+    },
+    "range": [
+      339166,
+      339283
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent",
+      "_getCachedFramesCount",
+      "_getFirstCachedFrame"
+    ],
+    "location": {
+      "start": {
+        "line": 12609,
+        "column": 13
+      },
+      "end": {
+        "line": 12671,
+        "column": 7
+      }
+    },
+    "range": [
+      359807,
+      361735
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 12730,
+        "column": 13
+      },
+      "end": {
+        "line": 12736,
+        "column": 7
+      }
+    },
+    "range": [
+      363233,
+      363384
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 12792,
+        "column": 13
+      },
+      "end": {
+        "line": 12798,
+        "column": 7
+      }
+    },
+    "range": [
+      364805,
+      364948
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 12861,
+        "column": 13
+      },
+      "end": {
+        "line": 12867,
+        "column": 7
+      }
+    },
+    "range": [
+      366910,
+      367064
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 12908,
+        "column": 13
+      },
+      "end": {
+        "line": 12918,
+        "column": 7
+      }
+    },
+    "range": [
+      368426,
+      368738
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "startWorker",
+      "stopWorker",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 13454,
+        "column": 8
+      },
+      "end": {
+        "line": 13470,
+        "column": 9
+      }
+    },
+    "range": [
+      573529,
+      573932
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "op",
+      "origin",
+      "invalidProperty",
+      "data",
+      "metadata"
+    ],
+    "location": {
+      "start": {
+        "line": 13699,
+        "column": 12
+      },
+      "end": {
+        "line": 13706,
+        "column": 13
+      }
+    },
+    "range": [
+      579891,
+      580158
+    ]
+  },
+  {
+    "nameValue": "SentryHapiErrorPlugin",
+    "properties": [
+      "name",
+      "version",
+      "register"
+    ],
+    "location": {
+      "start": {
+        "line": 13842,
+        "column": 12
+      },
+      "end": {
+        "line": 13852,
+        "column": 5
+      }
+    },
+    "range": [
+      583854,
+      584168
+    ]
+  },
+  {
+    "nameValue": "SentryHapiTracingPlugin",
+    "properties": [
+      "name",
+      "version",
+      "register"
+    ],
+    "location": {
+      "start": {
+        "line": 13853,
+        "column": 10
+      },
+      "end": {
+        "line": 13897,
+        "column": 5
+      }
+    },
+    "range": [
+      584180,
+      585681
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "invalidProperty",
+      "op",
+      "name",
+      "description"
+    ],
+    "location": {
+      "start": {
+        "line": 13865,
+        "column": 41
+      },
+      "end": {
+        "line": 13870,
+        "column": 15
+      }
+    },
+    "range": [
+      584593,
+      584764
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce"
+    ],
+    "location": {
+      "start": {
+        "line": 13901,
+        "column": 13
+      },
+      "end": {
+        "line": 13915,
+        "column": 7
+      }
+    },
+    "range": [
+      585762,
+      586111
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 13971,
+        "column": 13
+      },
+      "end": {
+        "line": 13981,
+        "column": 7
+      }
+    },
+    "range": [
+      587572,
+      587883
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 14021,
+        "column": 13
+      },
+      "end": {
+        "line": 14040,
+        "column": 7
+      }
+    },
+    "range": [
+      589073,
+      589677
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 14060,
+        "column": 13
+      },
+      "end": {
+        "line": 14077,
+        "column": 7
+      }
+    },
+    "range": [
+      590209,
+      590668
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 14163,
+        "column": 13
+      },
+      "end": {
+        "line": 14169,
+        "column": 7
+      }
+    },
+    "range": [
+      592726,
+      592852
+    ]
+  },
+  {
+    "nameValue": "localforage",
+    "properties": [
+      "description",
+      "driver",
+      "name",
+      "size",
+      "storeName",
+      "version"
+    ],
+    "location": {
+      "start": {
+        "line": 16102,
+        "column": 19
+      },
+      "end": {
+        "line": 16109,
+        "column": 15
+      }
+    },
+    "range": [
+      661982,
+      662208
+    ]
+  },
+  {
+    "nameValue": "sentry/offlineEventStore",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 16365,
+        "column": 53
+      },
+      "end": {
+        "line": 16367,
+        "column": 9
+      }
+    },
+    "range": [
+      672773,
+      672828
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 16484,
+        "column": 13
+      },
+      "end": {
+        "line": 16493,
+        "column": 7
+      }
+    },
+    "range": [
+      676513,
+      676764
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 16544,
+        "column": 13
+      },
+      "end": {
+        "line": 16552,
+        "column": 7
+      }
+    },
+    "range": [
+      678257,
+      678461
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 16565,
+        "column": 13
+      },
+      "end": {
+        "line": 16580,
+        "column": 7
+      }
+    },
+    "range": [
+      678814,
+      679158
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 16592,
+        "column": 13
+      },
+      "end": {
+        "line": 16606,
+        "column": 7
+      }
+    },
+    "range": [
+      679483,
+      679816
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "setup"
+    ],
+    "location": {
+      "start": {
+        "line": 16632,
+        "column": 13
+      },
+      "end": {
+        "line": 16638,
+        "column": 7
+      }
+    },
+    "range": [
+      680508,
+      680622
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "setupOnce",
+      "processEvent"
+    ],
+    "location": {
+      "start": {
+        "line": 16834,
+        "column": 13
+      },
+      "end": {
+        "line": 16840,
+        "column": 7
+      }
+    },
+    "range": [
+      685694,
+      685811
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "constructor",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 23836,
+        "column": 43
+      },
+      "end": {
+        "line": 23839,
+        "column": 7
+      }
+    },
+    "range": [
+      933967,
+      934089
+    ]
+  },
+  {
+    "nameValue": "InitializeError",
+    "properties": [
+      "name",
+      "message"
+    ],
+    "location": {
+      "start": {
+        "line": 23958,
+        "column": 16
+      },
+      "end": {
+        "line": 23958,
+        "column": 76
+      }
+    },
+    "range": [
+      937412,
+      937472
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "code",
+      "name",
+      "message"
+    ],
+    "location": {
+      "start": {
+        "line": 23983,
+        "column": 13
+      },
+      "end": {
+        "line": 23987,
+        "column": 7
+      }
+    },
+    "range": [
+      938123,
+      938228
+    ]
+  },
+  {
+    "nameValue": "pre_logs_flushed",
+    "properties": [
+      "name",
+      "events"
+    ],
+    "location": {
+      "start": {
+        "line": 24643,
+        "column": 27
+      },
+      "end": {
+        "line": 24643,
+        "column": 66
+      }
+    },
+    "range": [
+      956707,
+      956746
+    ]
+  },
+  {
+    "nameValue": "logs_flushed",
+    "properties": [
+      "name",
+      "events"
+    ],
+    "location": {
+      "start": {
+        "line": 24649,
+        "column": 33
+      },
+      "end": {
+        "line": 24649,
+        "column": 68
+      }
+    },
+    "range": [
+      956932,
+      956967
+    ]
+  },
+  {
+    "nameValue": "error",
+    "properties": [
+      "name",
+      "error",
+      "tag"
+    ],
+    "location": {
+      "start": {
+        "line": 25210,
+        "column": 31
+      },
+      "end": {
+        "line": 25210,
+        "column": 66
+      }
+    },
+    "range": [
+      973124,
+      973159
+    ]
+  },
+  {
+    "nameValue": "error",
+    "properties": [
+      "name",
+      "error",
+      "tag"
+    ],
+    "location": {
+      "start": {
+        "line": 25244,
+        "column": 31
+      },
+      "end": {
+        "line": 25244,
+        "column": 66
+      }
+    },
+    "range": [
+      974457,
+      974492
+    ]
+  },
+  {
+    "nameValue": "session_expired",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 25674,
+        "column": 20
+      },
+      "end": {
+        "line": 25674,
+        "column": 47
+      }
+    },
+    "range": [
+      985980,
+      986007
+    ]
+  },
+  {
+    "nameValue": "error",
+    "properties": [
+      "name",
+      "error",
+      "tag",
+      "requestArgs"
+    ],
+    "location": {
+      "start": {
+        "line": 25904,
+        "column": 27
+      },
+      "end": {
+        "line": 25909,
+        "column": 15
+      }
+    },
+    "range": [
+      992549,
+      992703
+    ]
+  },
+  {
+    "nameValue": "pre_shutdown",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 26165,
+        "column": 18
+      },
+      "end": {
+        "line": 26165,
+        "column": 42
+      }
+    },
+    "range": [
+      1000677,
+      1000701
+    ]
+  },
+  {
+    "nameValue": "values_updated",
+    "properties": [
+      "name",
+      "status",
+      "values"
+    ],
+    "location": {
+      "start": {
+        "line": 26206,
+        "column": 18
+      },
+      "end": {
+        "line": 26206,
+        "column": 66
+      }
+    },
+    "range": [
+      1001871,
+      1001919
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "details",
+      "ruleID",
+      "__evaluation",
+      "value"
+    ],
+    "location": {
+      "start": {
+        "line": 26268,
+        "column": 11
+      },
+      "end": {
+        "line": 26278,
+        "column": 5
+      }
+    },
+    "range": [
+      1003795,
+      1004014
+    ]
+  },
+  {
+    "nameValue": "initialization_failure",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 27170,
+        "column": 22
+      },
+      "end": {
+        "line": 27170,
+        "column": 56
+      }
+    },
+    "range": [
+      1029215,
+      1029249
+    ]
+  },
+  {
+    "nameValue": "gate_evaluation",
+    "properties": [
+      "name",
+      "gate"
+    ],
+    "location": {
+      "start": {
+        "line": 27261,
+        "column": 18
+      },
+      "end": {
+        "line": 27261,
+        "column": 54
+      }
+    },
+    "range": [
+      1032123,
+      1032159
+    ]
+  },
+  {
+    "nameValue": "dynamic_config_evaluation",
+    "properties": [
+      "name",
+      "dynamicConfig"
+    ],
+    "location": {
+      "start": {
+        "line": 27279,
+        "column": 18
+      },
+      "end": {
+        "line": 27279,
+        "column": 73
+      }
+    },
+    "range": [
+      1032751,
+      1032806
+    ]
+  },
+  {
+    "nameValue": "experiment_evaluation",
+    "properties": [
+      "name",
+      "experiment"
+    ],
+    "location": {
+      "start": {
+        "line": 27297,
+        "column": 18
+      },
+      "end": {
+        "line": 27297,
+        "column": 66
+      }
+    },
+    "range": [
+      1033389,
+      1033437
+    ]
+  },
+  {
+    "nameValue": "layer_evaluation",
+    "properties": [
+      "name",
+      "layer"
+    ],
+    "location": {
+      "start": {
+        "line": 27331,
+        "column": 23
+      },
+      "end": {
+        "line": 27331,
+        "column": 61
+      }
+    },
+    "range": [
+      1034452,
+      1034490
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "details",
+      "__configuration",
+      "get"
+    ],
+    "location": {
+      "start": {
+        "line": 27337,
+        "column": 8
+      },
+      "end": {
+        "line": 27342,
+        "column": 9
+      }
+    },
+    "range": [
+      1034679,
+      1034815
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "id",
+      "isStateEditable",
+      "name",
+      "value",
+      "subHooks"
+    ],
+    "location": {
+      "start": {
+        "line": 63268,
+        "column": 28
+      },
+      "end": {
+        "line": 63274,
+        "column": 23
+      }
+    },
+    "range": [
+      2144711,
+      2144926
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "id",
+      "isStateEditable",
+      "name",
+      "value",
+      "subHooks"
+    ],
+    "location": {
+      "start": {
+        "line": 63288,
+        "column": 24
+      },
+      "end": {
+        "line": 63294,
+        "column": 19
+      }
+    },
+    "range": [
+      2145453,
+      2145727
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "inspected",
+      "name",
+      "preview_long",
+      "preview_short",
+      "readonly",
+      "size",
+      "type",
+      "unserializable"
+    ],
+    "location": {
+      "start": {
+        "line": 67630,
+        "column": 19
+      },
+      "end": {
+        "line": 67640,
+        "column": 13
+      }
+    },
+    "range": [
+      2301483,
+      2301908
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "type",
+      "preview_long",
+      "preview_short",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 67644,
+        "column": 20
+      },
+      "end": {
+        "line": 67653,
+        "column": 13
+      }
+    },
+    "range": [
+      2302012,
+      2302308
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "preview_short",
+      "preview_long",
+      "name",
+      "type"
+    ],
+    "location": {
+      "start": {
+        "line": 67670,
+        "column": 18
+      },
+      "end": {
+        "line": 67676,
+        "column": 19
+      }
+    },
+    "range": [
+      2302916,
+      2303132
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "preview_short",
+      "preview_long",
+      "name",
+      "type"
+    ],
+    "location": {
+      "start": {
+        "line": 67681,
+        "column": 18
+      },
+      "end": {
+        "line": 67690,
+        "column": 19
+      }
+    },
+    "range": [
+      2303255,
+      2303593
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "preview_short",
+      "preview_long",
+      "name",
+      "type"
+    ],
+    "location": {
+      "start": {
+        "line": 67698,
+        "column": 18
+      },
+      "end": {
+        "line": 67704,
+        "column": 19
+      }
+    },
+    "range": [
+      2303867,
+      2304086
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "preview_short",
+      "preview_long",
+      "name",
+      "type"
+    ],
+    "location": {
+      "start": {
+        "line": 67709,
+        "column": 18
+      },
+      "end": {
+        "line": 67715,
+        "column": 19
+      }
+    },
+    "range": [
+      2304207,
+      2304426
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "preview_short",
+      "preview_long",
+      "name",
+      "type"
+    ],
+    "location": {
+      "start": {
+        "line": 67720,
+        "column": 18
+      },
+      "end": {
+        "line": 67726,
+        "column": 19
+      }
+    },
+    "range": [
+      2304554,
+      2304779
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "preview_short",
+      "preview_long",
+      "name",
+      "size",
+      "type"
+    ],
+    "location": {
+      "start": {
+        "line": 67732,
+        "column": 18
+      },
+      "end": {
+        "line": 67739,
+        "column": 19
+      }
+    },
+    "range": [
+      2304938,
+      2305232
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "unserializable",
+      "type",
+      "readonly",
+      "size",
+      "preview_short",
+      "preview_long",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 67751,
+        "column": 27
+      },
+      "end": {
+        "line": 67762,
+        "column": 19
+      }
+    },
+    "range": [
+      2305738,
+      2306195
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "preview_short",
+      "preview_long",
+      "name",
+      "type"
+    ],
+    "location": {
+      "start": {
+        "line": 67781,
+        "column": 18
+      },
+      "end": {
+        "line": 67787,
+        "column": 19
+      }
+    },
+    "range": [
+      2306771,
+      2306999
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "preview_short",
+      "preview_long",
+      "name",
+      "type"
+    ],
+    "location": {
+      "start": {
+        "line": 67792,
+        "column": 18
+      },
+      "end": {
+        "line": 67798,
+        "column": 19
+      }
+    },
+    "range": [
+      2307118,
+      2307337
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "inspectable",
+      "preview_short",
+      "preview_long",
+      "name",
+      "type"
+    ],
+    "location": {
+      "start": {
+        "line": 67803,
+        "column": 18
+      },
+      "end": {
+        "line": 67809,
+        "column": 19
+      }
+    },
+    "range": [
+      2307458,
+      2307677
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "unserializable",
+      "type",
+      "readonly",
+      "preview_short",
+      "preview_long",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 67832,
+        "column": 25
+      },
+      "end": {
+        "line": 67839,
+        "column": 17
+      }
+    },
+    "range": [
+      2308461,
+      2308709
+    ]
+  },
+  {
+    "nameValue": "contentLengthMiddleware",
+    "properties": [
+      "step",
+      "tags",
+      "name",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 78142,
+        "column": 39
+      },
+      "end": {
+        "line": 78147,
+        "column": 3
+      }
+    },
+    "range": [
+      2664802,
+      2664933
+    ]
+  },
+  {
+    "nameValue": "deserializerMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 78411,
+        "column": 37
+      },
+      "end": {
+        "line": 78416,
+        "column": 3
+      }
+    },
+    "range": [
+      2673045,
+      2673157
+    ]
+  },
+  {
+    "nameValue": "serializerMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 78417,
+        "column": 35
+      },
+      "end": {
+        "line": 78422,
+        "column": 3
+      }
+    },
+    "range": [
+      2673194,
+      2673300
+    ]
+  },
+  {
+    "nameValue": "endpointV2Middleware",
+    "properties": [
+      "step",
+      "tags",
+      "name",
+      "override",
+      "relation",
+      "toMiddleware"
+    ],
+    "location": {
+      "start": {
+        "line": 78448,
+        "column": 34
+      },
+      "end": {
+        "line": 78455,
+        "column": 3
+      }
+    },
+    "range": [
+      2674028,
+      2674249
+    ]
+  },
+  {
+    "nameValue": "hostHeaderMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "priority",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 78532,
+        "column": 36
+      },
+      "end": {
+        "line": 78538,
+        "column": 3
+      }
+    },
+    "range": [
+      2676518,
+      2676635
+    ]
+  },
+  {
+    "nameValue": "loggerMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "step",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 78605,
+        "column": 32
+      },
+      "end": {
+        "line": 78610,
+        "column": 3
+      }
+    },
+    "range": [
+      2678516,
+      2678615
+    ]
+  },
+  {
+    "nameValue": "recursionDetectionMiddleware",
+    "properties": [
+      "step",
+      "tags",
+      "name",
+      "override",
+      "priority"
+    ],
+    "location": {
+      "start": {
+        "line": 78648,
+        "column": 47
+      },
+      "end": {
+        "line": 78654,
+        "column": 3
+      }
+    },
+    "range": [
+      2679766,
+      2679906
+    ]
+  },
+  {
+    "nameValue": "omitRetryHeadersMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "relation",
+      "toMiddleware",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 79778,
+        "column": 42
+      },
+      "end": {
+        "line": 79784,
+        "column": 3
+      }
+    },
+    "range": [
+      2712801,
+      2712981
+    ]
+  },
+  {
+    "nameValue": "retryMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "step",
+      "priority",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 79870,
+        "column": 31
+      },
+      "end": {
+        "line": 79876,
+        "column": 3
+      }
+    },
+    "range": [
+      2715728,
+      2715852
+    ]
+  },
+  {
+    "nameValue": "sigv4",
+    "properties": [
+      "name",
+      "signingName",
+      "signingRegion",
+      "properties"
+    ],
+    "location": {
+      "start": {
+        "line": 80729,
+        "column": 12
+      },
+      "end": {
+        "line": 80734,
+        "column": 13
+      }
+    },
+    "range": [
+      2741576,
+      2741785
+    ]
+  },
+  {
+    "nameValue": "awsAuthMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "relation",
+      "toMiddleware",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 80896,
+        "column": 33
+      },
+      "end": {
+        "line": 80902,
+        "column": 3
+      }
+    },
+    "range": [
+      2746503,
+      2746653
+    ]
+  },
+  {
+    "nameValue": "aws",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 80936,
+        "column": 17
+      },
+      "end": {
+        "line": 80942,
+        "column": 9
+      }
+    },
+    "range": [
+      2747501,
+      2747675
+    ]
+  },
+  {
+    "nameValue": "aws-cn",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 80977,
+        "column": 17
+      },
+      "end": {
+        "line": 80983,
+        "column": 9
+      }
+    },
+    "range": [
+      2749654,
+      2749855
+    ]
+  },
+  {
+    "nameValue": "aws-us-gov",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 80993,
+        "column": 17
+      },
+      "end": {
+        "line": 80999,
+        "column": 9
+      }
+    },
+    "range": [
+      2750185,
+      2750366
+    ]
+  },
+  {
+    "nameValue": "aws-iso",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 81011,
+        "column": 17
+      },
+      "end": {
+        "line": 81017,
+        "column": 9
+      }
+    },
+    "range": [
+      2750750,
+      2750928
+    ]
+  },
+  {
+    "nameValue": "aws-iso-b",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 81027,
+        "column": 17
+      },
+      "end": {
+        "line": 81033,
+        "column": 9
+      }
+    },
+    "range": [
+      2751261,
+      2751447
+    ]
+  },
+  {
+    "nameValue": "aws-iso-e",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 81042,
+        "column": 17
+      },
+      "end": {
+        "line": 81048,
+        "column": 9
+      }
+    },
+    "range": [
+      2751734,
+      2751922
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "value"
+    ],
+    "location": {
+      "start": {
+        "line": 81651,
+        "column": 39
+      },
+      "end": {
+        "line": 81651,
+        "column": 60
+      }
+    },
+    "range": [
+      2769497,
+      2769518
+    ]
+  },
+  {
+    "nameValue": "getUserAgentMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "priority",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 81978,
+        "column": 38
+      },
+      "end": {
+        "line": 81984,
+        "column": 3
+      }
+    },
+    "range": [
+      2779533,
+      2779676
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "$fault",
+      "$metadata"
+    ],
+    "location": {
+      "start": {
+        "line": 82748,
+        "column": 18
+      },
+      "end": {
+        "line": 82757,
+        "column": 9
+      }
+    },
+    "range": [
+      2802695,
+      2802960
+    ]
+  },
+  {
+    "nameValue": "@aws-sdk/client-cognito-identity",
+    "properties": [
+      "name",
+      "description",
+      "version",
+      "scripts",
+      "main",
+      "types",
+      "module",
+      "sideEffects",
+      "dependencies",
+      "devDependencies",
+      "engines",
+      "typesVersions",
+      "files",
+      "author",
+      "license",
+      "browser",
+      "react-native",
+      "homepage",
+      "repository"
+    ],
+    "location": {
+      "start": {
+        "line": 83070,
+        "column": 16
+      },
+      "end": {
+        "line": 83164,
+        "column": 3
+      }
+    },
+    "range": [
+      2811833,
+      2815691
+    ]
+  },
+  {
+    "nameValue": "AWS SDK for JavaScript Team",
+    "properties": [
+      "name",
+      "url"
+    ],
+    "location": {
+      "start": {
+        "line": 83148,
+        "column": 12
+      },
+      "end": {
+        "line": 83151,
+        "column": 5
+      }
+    },
+    "range": [
+      2815132,
+      2815231
+    ]
+  },
+  {
+    "nameValue": "@aws-sdk/client-sts",
+    "properties": [
+      "name",
+      "description",
+      "version",
+      "scripts",
+      "main",
+      "types",
+      "module",
+      "sideEffects",
+      "dependencies",
+      "devDependencies",
+      "engines",
+      "typesVersions",
+      "files",
+      "author",
+      "license",
+      "browser",
+      "react-native",
+      "homepage",
+      "repository"
+    ],
+    "location": {
+      "start": {
+        "line": 83189,
+        "column": 16
+      },
+      "end": {
+        "line": 83282,
+        "column": 3
+      }
+    },
+    "range": [
+      2816443,
+      2820153
+    ]
+  },
+  {
+    "nameValue": "AWS SDK for JavaScript Team",
+    "properties": [
+      "name",
+      "url"
+    ],
+    "location": {
+      "start": {
+        "line": 83266,
+        "column": 12
+      },
+      "end": {
+        "line": 83269,
+        "column": 5
+      }
+    },
+    "range": [
+      2819620,
+      2819719
+    ]
+  },
+  {
+    "nameValue": "ExpiredTokenException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 83325,
+        "column": 12
+      },
+      "end": {
+        "line": 83325,
+        "column": 69
+      }
+    },
+    "range": [
+      2821583,
+      2821640
+    ]
+  },
+  {
+    "nameValue": "MalformedPolicyDocumentException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 83334,
+        "column": 12
+      },
+      "end": {
+        "line": 83338,
+        "column": 7
+      }
+    },
+    "range": [
+      2821897,
+      2821996
+    ]
+  },
+  {
+    "nameValue": "PackedPolicyTooLargeException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 83347,
+        "column": 12
+      },
+      "end": {
+        "line": 83347,
+        "column": 77
+      }
+    },
+    "range": [
+      2822275,
+      2822340
+    ]
+  },
+  {
+    "nameValue": "RegionDisabledException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 83356,
+        "column": 12
+      },
+      "end": {
+        "line": 83356,
+        "column": 71
+      }
+    },
+    "range": [
+      2822613,
+      2822672
+    ]
+  },
+  {
+    "nameValue": "IDPRejectedClaimException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 83365,
+        "column": 12
+      },
+      "end": {
+        "line": 83365,
+        "column": 73
+      }
+    },
+    "range": [
+      2822933,
+      2822994
+    ]
+  },
+  {
+    "nameValue": "InvalidIdentityTokenException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 83374,
+        "column": 12
+      },
+      "end": {
+        "line": 83374,
+        "column": 77
+      }
+    },
+    "range": [
+      2823259,
+      2823324
+    ]
+  },
+  {
+    "nameValue": "IDPCommunicationErrorException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 83383,
+        "column": 12
+      },
+      "end": {
+        "line": 83383,
+        "column": 78
+      }
+    },
+    "range": [
+      2823597,
+      2823663
+    ]
+  },
+  {
+    "nameValue": "InvalidAuthorizationMessageException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 83392,
+        "column": 12
+      },
+      "end": {
+        "line": 83396,
+        "column": 7
+      }
+    },
+    "range": [
+      2823938,
+      2824041
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 85959,
+        "column": 27
+      },
+      "end": {
+        "line": 85959,
+        "column": 79
+      }
+    },
+    "range": [
+      2902317,
+      2902369
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 85960,
+        "column": 17
+      },
+      "end": {
+        "line": 85960,
+        "column": 67
+      }
+    },
+    "range": [
+      2902388,
+      2902438
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 85961,
+        "column": 18
+      },
+      "end": {
+        "line": 85961,
+        "column": 61
+      }
+    },
+    "range": [
+      2902458,
+      2902501
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 85962,
+        "column": 16
+      },
+      "end": {
+        "line": 85962,
+        "column": 57
+      }
+    },
+    "range": [
+      2902519,
+      2902560
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 85963,
+        "column": 22
+      },
+      "end": {
+        "line": 85963,
+        "column": 77
+      }
+    },
+    "range": [
+      2902584,
+      2902639
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 86016,
+        "column": 27
+      },
+      "end": {
+        "line": 86016,
+        "column": 79
+      }
+    },
+    "range": [
+      2904130,
+      2904182
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 86017,
+        "column": 17
+      },
+      "end": {
+        "line": 86017,
+        "column": 67
+      }
+    },
+    "range": [
+      2904201,
+      2904251
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 86018,
+        "column": 18
+      },
+      "end": {
+        "line": 86018,
+        "column": 61
+      }
+    },
+    "range": [
+      2904271,
+      2904314
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 86019,
+        "column": 16
+      },
+      "end": {
+        "line": 86019,
+        "column": 57
+      }
+    },
+    "range": [
+      2904332,
+      2904373
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 86020,
+        "column": 22
+      },
+      "end": {
+        "line": 86020,
+        "column": 77
+      }
+    },
+    "range": [
+      2904397,
+      2904452
+    ]
+  },
+  {
+    "nameValue": "@aws-sdk/client-sso",
+    "properties": [
+      "name",
+      "description",
+      "version",
+      "scripts",
+      "main",
+      "types",
+      "module",
+      "sideEffects",
+      "dependencies",
+      "devDependencies",
+      "engines",
+      "typesVersions",
+      "files",
+      "author",
+      "license",
+      "browser",
+      "react-native",
+      "homepage",
+      "repository"
+    ],
+    "location": {
+      "start": {
+        "line": 87076,
+        "column": 16
+      },
+      "end": {
+        "line": 87163,
+        "column": 3
+      }
+    },
+    "range": [
+      2937286,
+      2940755
+    ]
+  },
+  {
+    "nameValue": "AWS SDK for JavaScript Team",
+    "properties": [
+      "name",
+      "url"
+    ],
+    "location": {
+      "start": {
+        "line": 87147,
+        "column": 12
+      },
+      "end": {
+        "line": 87150,
+        "column": 5
+      }
+    },
+    "range": [
+      2940222,
+      2940321
+    ]
+  },
+  {
+    "nameValue": "TimeoutError",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 87250,
+        "column": 16
+      },
+      "end": {
+        "line": 87250,
+        "column": 40
+      }
+    },
+    "range": [
+      2943258,
+      2943282
+    ]
+  },
+  {
+    "nameValue": "TimeoutError",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 87280,
+        "column": 73
+      },
+      "end": {
+        "line": 87282,
+        "column": 11
+      }
+    },
+    "range": [
+      2944049,
+      2944096
+    ]
+  },
+  {
+    "nameValue": "TimeoutError",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 87412,
+        "column": 33
+      },
+      "end": {
+        "line": 87412,
+        "column": 57
+      }
+    },
+    "range": [
+      2947909,
+      2947933
+    ]
+  },
+  {
+    "nameValue": "InvalidRequestException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 88298,
+        "column": 12
+      },
+      "end": {
+        "line": 88298,
+        "column": 71
+      }
+    },
+    "range": [
+      2974359,
+      2974418
+    ]
+  },
+  {
+    "nameValue": "ResourceNotFoundException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 88307,
+        "column": 12
+      },
+      "end": {
+        "line": 88307,
+        "column": 73
+      }
+    },
+    "range": [
+      2974679,
+      2974740
+    ]
+  },
+  {
+    "nameValue": "TooManyRequestsException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 88316,
+        "column": 12
+      },
+      "end": {
+        "line": 88316,
+        "column": 72
+      }
+    },
+    "range": [
+      2975005,
+      2975065
+    ]
+  },
+  {
+    "nameValue": "UnauthorizedException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 88325,
+        "column": 12
+      },
+      "end": {
+        "line": 88325,
+        "column": 69
+      }
+    },
+    "range": [
+      2975328,
+      2975385
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88694,
+        "column": 17
+      },
+      "end": {
+        "line": 88694,
+        "column": 67
+      }
+    },
+    "range": [
+      2987420,
+      2987470
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88695,
+        "column": 18
+      },
+      "end": {
+        "line": 88695,
+        "column": 61
+      }
+    },
+    "range": [
+      2987490,
+      2987533
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88696,
+        "column": 16
+      },
+      "end": {
+        "line": 88696,
+        "column": 57
+      }
+    },
+    "range": [
+      2987551,
+      2987592
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88697,
+        "column": 22
+      },
+      "end": {
+        "line": 88697,
+        "column": 77
+      }
+    },
+    "range": [
+      2987616,
+      2987671
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88751,
+        "column": 17
+      },
+      "end": {
+        "line": 88751,
+        "column": 67
+      }
+    },
+    "range": [
+      2989188,
+      2989238
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88752,
+        "column": 18
+      },
+      "end": {
+        "line": 88752,
+        "column": 61
+      }
+    },
+    "range": [
+      2989258,
+      2989301
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88753,
+        "column": 16
+      },
+      "end": {
+        "line": 88753,
+        "column": 57
+      }
+    },
+    "range": [
+      2989319,
+      2989360
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88754,
+        "column": 22
+      },
+      "end": {
+        "line": 88754,
+        "column": 77
+      }
+    },
+    "range": [
+      2989384,
+      2989439
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88807,
+        "column": 17
+      },
+      "end": {
+        "line": 88807,
+        "column": 67
+      }
+    },
+    "range": [
+      2990890,
+      2990940
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88808,
+        "column": 18
+      },
+      "end": {
+        "line": 88808,
+        "column": 61
+      }
+    },
+    "range": [
+      2990960,
+      2991003
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88809,
+        "column": 16
+      },
+      "end": {
+        "line": 88809,
+        "column": 57
+      }
+    },
+    "range": [
+      2991021,
+      2991062
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88810,
+        "column": 22
+      },
+      "end": {
+        "line": 88810,
+        "column": 77
+      }
+    },
+    "range": [
+      2991086,
+      2991141
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88862,
+        "column": 17
+      },
+      "end": {
+        "line": 88862,
+        "column": 67
+      }
+    },
+    "range": [
+      2992554,
+      2992604
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88863,
+        "column": 18
+      },
+      "end": {
+        "line": 88863,
+        "column": 61
+      }
+    },
+    "range": [
+      2992624,
+      2992667
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88864,
+        "column": 16
+      },
+      "end": {
+        "line": 88864,
+        "column": 57
+      }
+    },
+    "range": [
+      2992685,
+      2992726
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 88865,
+        "column": 22
+      },
+      "end": {
+        "line": 88865,
+        "column": 77
+      }
+    },
+    "range": [
+      2992750,
+      2992805
+    ]
+  },
+  {
+    "nameValue": "hostHeaderMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "priority",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 89048,
+        "column": 36
+      },
+      "end": {
+        "line": 89054,
+        "column": 3
+      }
+    },
+    "range": [
+      2998089,
+      2998206
+    ]
+  },
+  {
+    "nameValue": "loggerMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "step",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 89121,
+        "column": 32
+      },
+      "end": {
+        "line": 89126,
+        "column": 3
+      }
+    },
+    "range": [
+      3000087,
+      3000186
+    ]
+  },
+  {
+    "nameValue": "recursionDetectionMiddleware",
+    "properties": [
+      "step",
+      "tags",
+      "name",
+      "override",
+      "priority"
+    ],
+    "location": {
+      "start": {
+        "line": 89164,
+        "column": 47
+      },
+      "end": {
+        "line": 89170,
+        "column": 3
+      }
+    },
+    "range": [
+      3001339,
+      3001479
+    ]
+  },
+  {
+    "nameValue": "aws",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 89200,
+        "column": 17
+      },
+      "end": {
+        "line": 89206,
+        "column": 9
+      }
+    },
+    "range": [
+      3002166,
+      3002340
+    ]
+  },
+  {
+    "nameValue": "aws-cn",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 89241,
+        "column": 17
+      },
+      "end": {
+        "line": 89247,
+        "column": 9
+      }
+    },
+    "range": [
+      3004319,
+      3004520
+    ]
+  },
+  {
+    "nameValue": "aws-us-gov",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 89257,
+        "column": 17
+      },
+      "end": {
+        "line": 89263,
+        "column": 9
+      }
+    },
+    "range": [
+      3004850,
+      3005031
+    ]
+  },
+  {
+    "nameValue": "aws-iso",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 89275,
+        "column": 17
+      },
+      "end": {
+        "line": 89281,
+        "column": 9
+      }
+    },
+    "range": [
+      3005415,
+      3005593
+    ]
+  },
+  {
+    "nameValue": "aws-iso-b",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 89291,
+        "column": 17
+      },
+      "end": {
+        "line": 89297,
+        "column": 9
+      }
+    },
+    "range": [
+      3005926,
+      3006112
+    ]
+  },
+  {
+    "nameValue": "aws-iso-e",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 89306,
+        "column": 17
+      },
+      "end": {
+        "line": 89312,
+        "column": 9
+      }
+    },
+    "range": [
+      3006399,
+      3006587
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "value"
+    ],
+    "location": {
+      "start": {
+        "line": 89915,
+        "column": 39
+      },
+      "end": {
+        "line": 89915,
+        "column": 60
+      }
+    },
+    "range": [
+      3024166,
+      3024187
+    ]
+  },
+  {
+    "nameValue": "getUserAgentMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "priority",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 90245,
+        "column": 38
+      },
+      "end": {
+        "line": 90251,
+        "column": 3
+      }
+    },
+    "range": [
+      3034250,
+      3034393
+    ]
+  },
+  {
+    "nameValue": "@aws-sdk/client-sso-oidc",
+    "properties": [
+      "name",
+      "description",
+      "version",
+      "scripts",
+      "main",
+      "types",
+      "module",
+      "sideEffects",
+      "dependencies",
+      "devDependencies",
+      "engines",
+      "typesVersions",
+      "files",
+      "author",
+      "license",
+      "browser",
+      "react-native",
+      "homepage",
+      "repository"
+    ],
+    "location": {
+      "start": {
+        "line": 90279,
+        "column": 16
+      },
+      "end": {
+        "line": 90366,
+        "column": 3
+      }
+    },
+    "range": [
+      3035164,
+      3038658
+    ]
+  },
+  {
+    "nameValue": "AWS SDK for JavaScript Team",
+    "properties": [
+      "name",
+      "url"
+    ],
+    "location": {
+      "start": {
+        "line": 90350,
+        "column": 12
+      },
+      "end": {
+        "line": 90353,
+        "column": 5
+      }
+    },
+    "range": [
+      3038115,
+      3038214
+    ]
+  },
+  {
+    "nameValue": "AccessDeniedException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91125,
+        "column": 12
+      },
+      "end": {
+        "line": 91125,
+        "column": 69
+      }
+    },
+    "range": [
+      3060572,
+      3060629
+    ]
+  },
+  {
+    "nameValue": "AuthorizationPendingException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91136,
+        "column": 12
+      },
+      "end": {
+        "line": 91136,
+        "column": 77
+      }
+    },
+    "range": [
+      3060978,
+      3061043
+    ]
+  },
+  {
+    "nameValue": "ExpiredTokenException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91147,
+        "column": 12
+      },
+      "end": {
+        "line": 91147,
+        "column": 69
+      }
+    },
+    "range": [
+      3061408,
+      3061465
+    ]
+  },
+  {
+    "nameValue": "InternalServerException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91158,
+        "column": 12
+      },
+      "end": {
+        "line": 91158,
+        "column": 71
+      }
+    },
+    "range": [
+      3061814,
+      3061873
+    ]
+  },
+  {
+    "nameValue": "InvalidClientException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91169,
+        "column": 12
+      },
+      "end": {
+        "line": 91169,
+        "column": 70
+      }
+    },
+    "range": [
+      3062226,
+      3062284
+    ]
+  },
+  {
+    "nameValue": "InvalidGrantException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91180,
+        "column": 12
+      },
+      "end": {
+        "line": 91180,
+        "column": 69
+      }
+    },
+    "range": [
+      3062635,
+      3062692
+    ]
+  },
+  {
+    "nameValue": "InvalidRequestException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91191,
+        "column": 12
+      },
+      "end": {
+        "line": 91191,
+        "column": 71
+      }
+    },
+    "range": [
+      3063041,
+      3063100
+    ]
+  },
+  {
+    "nameValue": "InvalidScopeException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91202,
+        "column": 12
+      },
+      "end": {
+        "line": 91202,
+        "column": 69
+      }
+    },
+    "range": [
+      3063453,
+      3063510
+    ]
+  },
+  {
+    "nameValue": "SlowDownException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91213,
+        "column": 12
+      },
+      "end": {
+        "line": 91213,
+        "column": 65
+      }
+    },
+    "range": [
+      3063859,
+      3063912
+    ]
+  },
+  {
+    "nameValue": "UnauthorizedClientException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91224,
+        "column": 12
+      },
+      "end": {
+        "line": 91224,
+        "column": 75
+      }
+    },
+    "range": [
+      3064253,
+      3064316
+    ]
+  },
+  {
+    "nameValue": "UnsupportedGrantTypeException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91235,
+        "column": 12
+      },
+      "end": {
+        "line": 91235,
+        "column": 77
+      }
+    },
+    "range": [
+      3064677,
+      3064742
+    ]
+  },
+  {
+    "nameValue": "InvalidClientMetadataException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 91246,
+        "column": 12
+      },
+      "end": {
+        "line": 91246,
+        "column": 78
+      }
+    },
+    "range": [
+      3065107,
+      3065173
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91680,
+        "column": 17
+      },
+      "end": {
+        "line": 91680,
+        "column": 67
+      }
+    },
+    "range": [
+      3079349,
+      3079399
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91681,
+        "column": 18
+      },
+      "end": {
+        "line": 91681,
+        "column": 61
+      }
+    },
+    "range": [
+      3079419,
+      3079462
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91682,
+        "column": 16
+      },
+      "end": {
+        "line": 91682,
+        "column": 57
+      }
+    },
+    "range": [
+      3079480,
+      3079521
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91683,
+        "column": 22
+      },
+      "end": {
+        "line": 91683,
+        "column": 77
+      }
+    },
+    "range": [
+      3079545,
+      3079600
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91734,
+        "column": 17
+      },
+      "end": {
+        "line": 91734,
+        "column": 67
+      }
+    },
+    "range": [
+      3080973,
+      3081023
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91735,
+        "column": 18
+      },
+      "end": {
+        "line": 91735,
+        "column": 61
+      }
+    },
+    "range": [
+      3081043,
+      3081086
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91736,
+        "column": 16
+      },
+      "end": {
+        "line": 91736,
+        "column": 57
+      }
+    },
+    "range": [
+      3081104,
+      3081145
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91737,
+        "column": 22
+      },
+      "end": {
+        "line": 91737,
+        "column": 77
+      }
+    },
+    "range": [
+      3081169,
+      3081224
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91788,
+        "column": 17
+      },
+      "end": {
+        "line": 91788,
+        "column": 67
+      }
+    },
+    "range": [
+      3082619,
+      3082669
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91789,
+        "column": 18
+      },
+      "end": {
+        "line": 91789,
+        "column": 61
+      }
+    },
+    "range": [
+      3082689,
+      3082732
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91790,
+        "column": 16
+      },
+      "end": {
+        "line": 91790,
+        "column": 57
+      }
+    },
+    "range": [
+      3082750,
+      3082791
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 91791,
+        "column": 22
+      },
+      "end": {
+        "line": 91791,
+        "column": 77
+      }
+    },
+    "range": [
+      3082815,
+      3082870
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "signingName",
+      "signingRegion"
+    ],
+    "location": {
+      "start": {
+        "line": 92544,
+        "column": 22
+      },
+      "end": {
+        "line": 92544,
+        "column": 73
+      }
+    },
+    "range": [
+      3105453,
+      3105504
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "signingName",
+      "signingRegion"
+    ],
+    "location": {
+      "start": {
+        "line": 92673,
+        "column": 20
+      },
+      "end": {
+        "line": 92673,
+        "column": 78
+      }
+    },
+    "range": [
+      3109035,
+      3109093
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93013,
+        "column": 27
+      },
+      "end": {
+        "line": 93013,
+        "column": 79
+      }
+    },
+    "range": [
+      3120246,
+      3120298
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93014,
+        "column": 17
+      },
+      "end": {
+        "line": 93014,
+        "column": 67
+      }
+    },
+    "range": [
+      3120317,
+      3120367
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93015,
+        "column": 18
+      },
+      "end": {
+        "line": 93015,
+        "column": 61
+      }
+    },
+    "range": [
+      3120387,
+      3120430
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93016,
+        "column": 16
+      },
+      "end": {
+        "line": 93016,
+        "column": 57
+      }
+    },
+    "range": [
+      3120448,
+      3120489
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93017,
+        "column": 22
+      },
+      "end": {
+        "line": 93017,
+        "column": 77
+      }
+    },
+    "range": [
+      3120513,
+      3120568
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93071,
+        "column": 27
+      },
+      "end": {
+        "line": 93071,
+        "column": 79
+      }
+    },
+    "range": [
+      3122105,
+      3122157
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93072,
+        "column": 17
+      },
+      "end": {
+        "line": 93072,
+        "column": 67
+      }
+    },
+    "range": [
+      3122176,
+      3122226
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93073,
+        "column": 18
+      },
+      "end": {
+        "line": 93073,
+        "column": 61
+      }
+    },
+    "range": [
+      3122246,
+      3122289
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93074,
+        "column": 16
+      },
+      "end": {
+        "line": 93074,
+        "column": 57
+      }
+    },
+    "range": [
+      3122307,
+      3122348
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93075,
+        "column": 22
+      },
+      "end": {
+        "line": 93075,
+        "column": 77
+      }
+    },
+    "range": [
+      3122372,
+      3122427
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93128,
+        "column": 27
+      },
+      "end": {
+        "line": 93128,
+        "column": 79
+      }
+    },
+    "range": [
+      3123942,
+      3123994
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93129,
+        "column": 17
+      },
+      "end": {
+        "line": 93129,
+        "column": 67
+      }
+    },
+    "range": [
+      3124013,
+      3124063
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93130,
+        "column": 18
+      },
+      "end": {
+        "line": 93130,
+        "column": 61
+      }
+    },
+    "range": [
+      3124083,
+      3124126
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93131,
+        "column": 16
+      },
+      "end": {
+        "line": 93131,
+        "column": 57
+      }
+    },
+    "range": [
+      3124144,
+      3124185
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93132,
+        "column": 22
+      },
+      "end": {
+        "line": 93132,
+        "column": 77
+      }
+    },
+    "range": [
+      3124209,
+      3124264
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93185,
+        "column": 27
+      },
+      "end": {
+        "line": 93185,
+        "column": 79
+      }
+    },
+    "range": [
+      3125740,
+      3125792
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93186,
+        "column": 17
+      },
+      "end": {
+        "line": 93186,
+        "column": 67
+      }
+    },
+    "range": [
+      3125811,
+      3125861
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93187,
+        "column": 18
+      },
+      "end": {
+        "line": 93187,
+        "column": 61
+      }
+    },
+    "range": [
+      3125881,
+      3125924
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93188,
+        "column": 16
+      },
+      "end": {
+        "line": 93188,
+        "column": 57
+      }
+    },
+    "range": [
+      3125942,
+      3125983
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93189,
+        "column": 22
+      },
+      "end": {
+        "line": 93189,
+        "column": 77
+      }
+    },
+    "range": [
+      3126007,
+      3126062
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93243,
+        "column": 27
+      },
+      "end": {
+        "line": 93243,
+        "column": 79
+      }
+    },
+    "range": [
+      3127559,
+      3127611
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93244,
+        "column": 17
+      },
+      "end": {
+        "line": 93244,
+        "column": 67
+      }
+    },
+    "range": [
+      3127630,
+      3127680
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93245,
+        "column": 18
+      },
+      "end": {
+        "line": 93245,
+        "column": 61
+      }
+    },
+    "range": [
+      3127700,
+      3127743
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93246,
+        "column": 16
+      },
+      "end": {
+        "line": 93246,
+        "column": 57
+      }
+    },
+    "range": [
+      3127761,
+      3127802
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93247,
+        "column": 22
+      },
+      "end": {
+        "line": 93247,
+        "column": 77
+      }
+    },
+    "range": [
+      3127826,
+      3127881
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93302,
+        "column": 27
+      },
+      "end": {
+        "line": 93302,
+        "column": 79
+      }
+    },
+    "range": [
+      3129431,
+      3129483
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93303,
+        "column": 17
+      },
+      "end": {
+        "line": 93303,
+        "column": 67
+      }
+    },
+    "range": [
+      3129502,
+      3129552
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93304,
+        "column": 18
+      },
+      "end": {
+        "line": 93304,
+        "column": 61
+      }
+    },
+    "range": [
+      3129572,
+      3129615
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93305,
+        "column": 16
+      },
+      "end": {
+        "line": 93305,
+        "column": 57
+      }
+    },
+    "range": [
+      3129633,
+      3129674
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 93306,
+        "column": 22
+      },
+      "end": {
+        "line": 93306,
+        "column": 77
+      }
+    },
+    "range": [
+      3129698,
+      3129753
+    ]
+  },
+  {
+    "nameValue": "InternalErrorException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93796,
+        "column": 12
+      },
+      "end": {
+        "line": 93796,
+        "column": 70
+      }
+    },
+    "range": [
+      3144650,
+      3144708
+    ]
+  },
+  {
+    "nameValue": "InvalidParameterException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93805,
+        "column": 12
+      },
+      "end": {
+        "line": 93805,
+        "column": 73
+      }
+    },
+    "range": [
+      3144979,
+      3145040
+    ]
+  },
+  {
+    "nameValue": "LimitExceededException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93814,
+        "column": 12
+      },
+      "end": {
+        "line": 93814,
+        "column": 70
+      }
+    },
+    "range": [
+      3145317,
+      3145375
+    ]
+  },
+  {
+    "nameValue": "NotAuthorizedException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93823,
+        "column": 12
+      },
+      "end": {
+        "line": 93823,
+        "column": 70
+      }
+    },
+    "range": [
+      3145646,
+      3145704
+    ]
+  },
+  {
+    "nameValue": "ResourceConflictException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93832,
+        "column": 12
+      },
+      "end": {
+        "line": 93832,
+        "column": 73
+      }
+    },
+    "range": [
+      3145975,
+      3146036
+    ]
+  },
+  {
+    "nameValue": "TooManyRequestsException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93841,
+        "column": 12
+      },
+      "end": {
+        "line": 93841,
+        "column": 72
+      }
+    },
+    "range": [
+      3146313,
+      3146373
+    ]
+  },
+  {
+    "nameValue": "ResourceNotFoundException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93854,
+        "column": 12
+      },
+      "end": {
+        "line": 93854,
+        "column": 73
+      }
+    },
+    "range": [
+      3146758,
+      3146819
+    ]
+  },
+  {
+    "nameValue": "ExternalServiceException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93863,
+        "column": 12
+      },
+      "end": {
+        "line": 93863,
+        "column": 72
+      }
+    },
+    "range": [
+      3147096,
+      3147156
+    ]
+  },
+  {
+    "nameValue": "InvalidIdentityPoolConfigurationException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93872,
+        "column": 12
+      },
+      "end": {
+        "line": 93876,
+        "column": 7
+      }
+    },
+    "range": [
+      3147431,
+      3147539
+    ]
+  },
+  {
+    "nameValue": "DeveloperUserAlreadyRegisteredException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93892,
+        "column": 12
+      },
+      "end": {
+        "line": 93896,
+        "column": 7
+      }
+    },
+    "range": [
+      3148050,
+      3148156
+    ]
+  },
+  {
+    "nameValue": "ConcurrentModificationException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 93905,
+        "column": 12
+      },
+      "end": {
+        "line": 93909,
+        "column": 7
+      }
+    },
+    "range": [
+      3148461,
+      3148559
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95067,
+        "column": 17
+      },
+      "end": {
+        "line": 95067,
+        "column": 67
+      }
+    },
+    "range": [
+      3191737,
+      3191787
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95068,
+        "column": 18
+      },
+      "end": {
+        "line": 95068,
+        "column": 61
+      }
+    },
+    "range": [
+      3191807,
+      3191850
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95069,
+        "column": 16
+      },
+      "end": {
+        "line": 95069,
+        "column": 57
+      }
+    },
+    "range": [
+      3191868,
+      3191909
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95070,
+        "column": 22
+      },
+      "end": {
+        "line": 95070,
+        "column": 77
+      }
+    },
+    "range": [
+      3191933,
+      3191988
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95123,
+        "column": 17
+      },
+      "end": {
+        "line": 95123,
+        "column": 67
+      }
+    },
+    "range": [
+      3193473,
+      3193523
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95124,
+        "column": 18
+      },
+      "end": {
+        "line": 95124,
+        "column": 61
+      }
+    },
+    "range": [
+      3193543,
+      3193586
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95125,
+        "column": 16
+      },
+      "end": {
+        "line": 95125,
+        "column": 57
+      }
+    },
+    "range": [
+      3193604,
+      3193645
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95126,
+        "column": 22
+      },
+      "end": {
+        "line": 95126,
+        "column": 77
+      }
+    },
+    "range": [
+      3193669,
+      3193724
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95179,
+        "column": 17
+      },
+      "end": {
+        "line": 95179,
+        "column": 67
+      }
+    },
+    "range": [
+      3195203,
+      3195253
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95180,
+        "column": 18
+      },
+      "end": {
+        "line": 95180,
+        "column": 61
+      }
+    },
+    "range": [
+      3195273,
+      3195316
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95181,
+        "column": 16
+      },
+      "end": {
+        "line": 95181,
+        "column": 57
+      }
+    },
+    "range": [
+      3195334,
+      3195375
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95182,
+        "column": 22
+      },
+      "end": {
+        "line": 95182,
+        "column": 77
+      }
+    },
+    "range": [
+      3195399,
+      3195454
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95235,
+        "column": 17
+      },
+      "end": {
+        "line": 95235,
+        "column": 67
+      }
+    },
+    "range": [
+      3196939,
+      3196989
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95236,
+        "column": 18
+      },
+      "end": {
+        "line": 95236,
+        "column": 61
+      }
+    },
+    "range": [
+      3197009,
+      3197052
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95237,
+        "column": 16
+      },
+      "end": {
+        "line": 95237,
+        "column": 57
+      }
+    },
+    "range": [
+      3197070,
+      3197111
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95238,
+        "column": 22
+      },
+      "end": {
+        "line": 95238,
+        "column": 77
+      }
+    },
+    "range": [
+      3197135,
+      3197190
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95291,
+        "column": 17
+      },
+      "end": {
+        "line": 95291,
+        "column": 67
+      }
+    },
+    "range": [
+      3198671,
+      3198721
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95292,
+        "column": 18
+      },
+      "end": {
+        "line": 95292,
+        "column": 61
+      }
+    },
+    "range": [
+      3198741,
+      3198784
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95293,
+        "column": 16
+      },
+      "end": {
+        "line": 95293,
+        "column": 57
+      }
+    },
+    "range": [
+      3198802,
+      3198843
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95294,
+        "column": 22
+      },
+      "end": {
+        "line": 95294,
+        "column": 77
+      }
+    },
+    "range": [
+      3198867,
+      3198922
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95346,
+        "column": 17
+      },
+      "end": {
+        "line": 95346,
+        "column": 67
+      }
+    },
+    "range": [
+      3200408,
+      3200458
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95347,
+        "column": 18
+      },
+      "end": {
+        "line": 95347,
+        "column": 61
+      }
+    },
+    "range": [
+      3200478,
+      3200521
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95348,
+        "column": 16
+      },
+      "end": {
+        "line": 95348,
+        "column": 57
+      }
+    },
+    "range": [
+      3200539,
+      3200580
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95349,
+        "column": 22
+      },
+      "end": {
+        "line": 95349,
+        "column": 77
+      }
+    },
+    "range": [
+      3200604,
+      3200659
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95400,
+        "column": 17
+      },
+      "end": {
+        "line": 95400,
+        "column": 67
+      }
+    },
+    "range": [
+      3202086,
+      3202136
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95401,
+        "column": 18
+      },
+      "end": {
+        "line": 95401,
+        "column": 61
+      }
+    },
+    "range": [
+      3202156,
+      3202199
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95402,
+        "column": 16
+      },
+      "end": {
+        "line": 95402,
+        "column": 57
+      }
+    },
+    "range": [
+      3202217,
+      3202258
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95403,
+        "column": 22
+      },
+      "end": {
+        "line": 95403,
+        "column": 77
+      }
+    },
+    "range": [
+      3202282,
+      3202337
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95455,
+        "column": 17
+      },
+      "end": {
+        "line": 95455,
+        "column": 67
+      }
+    },
+    "range": [
+      3203715,
+      3203765
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95456,
+        "column": 18
+      },
+      "end": {
+        "line": 95456,
+        "column": 61
+      }
+    },
+    "range": [
+      3203785,
+      3203828
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95457,
+        "column": 16
+      },
+      "end": {
+        "line": 95457,
+        "column": 57
+      }
+    },
+    "range": [
+      3203846,
+      3203887
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95458,
+        "column": 22
+      },
+      "end": {
+        "line": 95458,
+        "column": 77
+      }
+    },
+    "range": [
+      3203911,
+      3203966
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95510,
+        "column": 17
+      },
+      "end": {
+        "line": 95510,
+        "column": 67
+      }
+    },
+    "range": [
+      3205441,
+      3205491
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95511,
+        "column": 18
+      },
+      "end": {
+        "line": 95511,
+        "column": 61
+      }
+    },
+    "range": [
+      3205511,
+      3205554
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95512,
+        "column": 16
+      },
+      "end": {
+        "line": 95512,
+        "column": 57
+      }
+    },
+    "range": [
+      3205572,
+      3205613
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95513,
+        "column": 22
+      },
+      "end": {
+        "line": 95513,
+        "column": 77
+      }
+    },
+    "range": [
+      3205637,
+      3205692
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95565,
+        "column": 17
+      },
+      "end": {
+        "line": 95565,
+        "column": 67
+      }
+    },
+    "range": [
+      3207120,
+      3207170
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95566,
+        "column": 18
+      },
+      "end": {
+        "line": 95566,
+        "column": 61
+      }
+    },
+    "range": [
+      3207190,
+      3207233
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95567,
+        "column": 16
+      },
+      "end": {
+        "line": 95567,
+        "column": 57
+      }
+    },
+    "range": [
+      3207251,
+      3207292
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95568,
+        "column": 22
+      },
+      "end": {
+        "line": 95568,
+        "column": 77
+      }
+    },
+    "range": [
+      3207316,
+      3207371
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95621,
+        "column": 17
+      },
+      "end": {
+        "line": 95621,
+        "column": 67
+      }
+    },
+    "range": [
+      3208931,
+      3208981
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95622,
+        "column": 18
+      },
+      "end": {
+        "line": 95622,
+        "column": 61
+      }
+    },
+    "range": [
+      3209001,
+      3209044
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95623,
+        "column": 16
+      },
+      "end": {
+        "line": 95623,
+        "column": 57
+      }
+    },
+    "range": [
+      3209062,
+      3209103
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95624,
+        "column": 22
+      },
+      "end": {
+        "line": 95624,
+        "column": 77
+      }
+    },
+    "range": [
+      3209127,
+      3209182
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95677,
+        "column": 17
+      },
+      "end": {
+        "line": 95677,
+        "column": 67
+      }
+    },
+    "range": [
+      3210701,
+      3210751
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95678,
+        "column": 18
+      },
+      "end": {
+        "line": 95678,
+        "column": 61
+      }
+    },
+    "range": [
+      3210771,
+      3210814
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95679,
+        "column": 16
+      },
+      "end": {
+        "line": 95679,
+        "column": 57
+      }
+    },
+    "range": [
+      3210832,
+      3210873
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95680,
+        "column": 22
+      },
+      "end": {
+        "line": 95680,
+        "column": 77
+      }
+    },
+    "range": [
+      3210897,
+      3210952
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95733,
+        "column": 17
+      },
+      "end": {
+        "line": 95733,
+        "column": 67
+      }
+    },
+    "range": [
+      3212422,
+      3212472
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95734,
+        "column": 18
+      },
+      "end": {
+        "line": 95734,
+        "column": 61
+      }
+    },
+    "range": [
+      3212492,
+      3212535
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95735,
+        "column": 16
+      },
+      "end": {
+        "line": 95735,
+        "column": 57
+      }
+    },
+    "range": [
+      3212553,
+      3212594
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95736,
+        "column": 22
+      },
+      "end": {
+        "line": 95736,
+        "column": 77
+      }
+    },
+    "range": [
+      3212618,
+      3212673
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95789,
+        "column": 17
+      },
+      "end": {
+        "line": 95789,
+        "column": 67
+      }
+    },
+    "range": [
+      3214157,
+      3214207
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95790,
+        "column": 18
+      },
+      "end": {
+        "line": 95790,
+        "column": 61
+      }
+    },
+    "range": [
+      3214227,
+      3214270
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95791,
+        "column": 16
+      },
+      "end": {
+        "line": 95791,
+        "column": 57
+      }
+    },
+    "range": [
+      3214288,
+      3214329
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95792,
+        "column": 22
+      },
+      "end": {
+        "line": 95792,
+        "column": 77
+      }
+    },
+    "range": [
+      3214353,
+      3214408
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95845,
+        "column": 17
+      },
+      "end": {
+        "line": 95845,
+        "column": 67
+      }
+    },
+    "range": [
+      3215904,
+      3215954
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95846,
+        "column": 18
+      },
+      "end": {
+        "line": 95846,
+        "column": 61
+      }
+    },
+    "range": [
+      3215974,
+      3216017
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95847,
+        "column": 16
+      },
+      "end": {
+        "line": 95847,
+        "column": 57
+      }
+    },
+    "range": [
+      3216035,
+      3216076
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95848,
+        "column": 22
+      },
+      "end": {
+        "line": 95848,
+        "column": 77
+      }
+    },
+    "range": [
+      3216100,
+      3216155
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95901,
+        "column": 17
+      },
+      "end": {
+        "line": 95901,
+        "column": 67
+      }
+    },
+    "range": [
+      3217668,
+      3217718
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95902,
+        "column": 18
+      },
+      "end": {
+        "line": 95902,
+        "column": 61
+      }
+    },
+    "range": [
+      3217738,
+      3217781
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95903,
+        "column": 16
+      },
+      "end": {
+        "line": 95903,
+        "column": 57
+      }
+    },
+    "range": [
+      3217799,
+      3217840
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95904,
+        "column": 22
+      },
+      "end": {
+        "line": 95904,
+        "column": 77
+      }
+    },
+    "range": [
+      3217864,
+      3217919
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95957,
+        "column": 17
+      },
+      "end": {
+        "line": 95957,
+        "column": 67
+      }
+    },
+    "range": [
+      3219432,
+      3219482
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95958,
+        "column": 18
+      },
+      "end": {
+        "line": 95958,
+        "column": 61
+      }
+    },
+    "range": [
+      3219502,
+      3219545
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95959,
+        "column": 16
+      },
+      "end": {
+        "line": 95959,
+        "column": 57
+      }
+    },
+    "range": [
+      3219563,
+      3219604
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 95960,
+        "column": 22
+      },
+      "end": {
+        "line": 95960,
+        "column": 77
+      }
+    },
+    "range": [
+      3219628,
+      3219683
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96013,
+        "column": 17
+      },
+      "end": {
+        "line": 96013,
+        "column": 67
+      }
+    },
+    "range": [
+      3221187,
+      3221237
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96014,
+        "column": 18
+      },
+      "end": {
+        "line": 96014,
+        "column": 61
+      }
+    },
+    "range": [
+      3221257,
+      3221300
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96015,
+        "column": 16
+      },
+      "end": {
+        "line": 96015,
+        "column": 57
+      }
+    },
+    "range": [
+      3221318,
+      3221359
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96016,
+        "column": 22
+      },
+      "end": {
+        "line": 96016,
+        "column": 77
+      }
+    },
+    "range": [
+      3221383,
+      3221438
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96069,
+        "column": 17
+      },
+      "end": {
+        "line": 96069,
+        "column": 67
+      }
+    },
+    "range": [
+      3222954,
+      3223004
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96070,
+        "column": 18
+      },
+      "end": {
+        "line": 96070,
+        "column": 61
+      }
+    },
+    "range": [
+      3223024,
+      3223067
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96071,
+        "column": 16
+      },
+      "end": {
+        "line": 96071,
+        "column": 57
+      }
+    },
+    "range": [
+      3223085,
+      3223126
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96072,
+        "column": 22
+      },
+      "end": {
+        "line": 96072,
+        "column": 77
+      }
+    },
+    "range": [
+      3223150,
+      3223205
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96125,
+        "column": 17
+      },
+      "end": {
+        "line": 96125,
+        "column": 67
+      }
+    },
+    "range": [
+      3224669,
+      3224719
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96126,
+        "column": 18
+      },
+      "end": {
+        "line": 96126,
+        "column": 61
+      }
+    },
+    "range": [
+      3224739,
+      3224782
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96127,
+        "column": 16
+      },
+      "end": {
+        "line": 96127,
+        "column": 57
+      }
+    },
+    "range": [
+      3224800,
+      3224841
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96128,
+        "column": 22
+      },
+      "end": {
+        "line": 96128,
+        "column": 77
+      }
+    },
+    "range": [
+      3224865,
+      3224920
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96180,
+        "column": 17
+      },
+      "end": {
+        "line": 96180,
+        "column": 67
+      }
+    },
+    "range": [
+      3226407,
+      3226457
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96181,
+        "column": 18
+      },
+      "end": {
+        "line": 96181,
+        "column": 61
+      }
+    },
+    "range": [
+      3226477,
+      3226520
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96182,
+        "column": 16
+      },
+      "end": {
+        "line": 96182,
+        "column": 57
+      }
+    },
+    "range": [
+      3226538,
+      3226579
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96183,
+        "column": 22
+      },
+      "end": {
+        "line": 96183,
+        "column": 77
+      }
+    },
+    "range": [
+      3226603,
+      3226658
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96235,
+        "column": 17
+      },
+      "end": {
+        "line": 96235,
+        "column": 67
+      }
+    },
+    "range": [
+      3228065,
+      3228115
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96236,
+        "column": 18
+      },
+      "end": {
+        "line": 96236,
+        "column": 61
+      }
+    },
+    "range": [
+      3228135,
+      3228178
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96237,
+        "column": 16
+      },
+      "end": {
+        "line": 96237,
+        "column": 57
+      }
+    },
+    "range": [
+      3228196,
+      3228237
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96238,
+        "column": 22
+      },
+      "end": {
+        "line": 96238,
+        "column": 77
+      }
+    },
+    "range": [
+      3228261,
+      3228316
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96291,
+        "column": 17
+      },
+      "end": {
+        "line": 96291,
+        "column": 67
+      }
+    },
+    "range": [
+      3229783,
+      3229833
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96292,
+        "column": 18
+      },
+      "end": {
+        "line": 96292,
+        "column": 61
+      }
+    },
+    "range": [
+      3229853,
+      3229896
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96293,
+        "column": 16
+      },
+      "end": {
+        "line": 96293,
+        "column": 57
+      }
+    },
+    "range": [
+      3229914,
+      3229955
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 96294,
+        "column": 22
+      },
+      "end": {
+        "line": 96294,
+        "column": 77
+      }
+    },
+    "range": [
+      3229979,
+      3230034
+    ]
+  },
+  {
+    "nameValue": "hostHeaderMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "priority",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 96832,
+        "column": 36
+      },
+      "end": {
+        "line": 96838,
+        "column": 3
+      }
+    },
+    "range": [
+      3245570,
+      3245687
+    ]
+  },
+  {
+    "nameValue": "loggerMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "step",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 96905,
+        "column": 32
+      },
+      "end": {
+        "line": 96910,
+        "column": 3
+      }
+    },
+    "range": [
+      3247568,
+      3247667
+    ]
+  },
+  {
+    "nameValue": "recursionDetectionMiddleware",
+    "properties": [
+      "step",
+      "tags",
+      "name",
+      "override",
+      "priority"
+    ],
+    "location": {
+      "start": {
+        "line": 96948,
+        "column": 47
+      },
+      "end": {
+        "line": 96954,
+        "column": 3
+      }
+    },
+    "range": [
+      3248820,
+      3248960
+    ]
+  },
+  {
+    "nameValue": "sigv4",
+    "properties": [
+      "name",
+      "signingName",
+      "signingRegion",
+      "properties"
+    ],
+    "location": {
+      "start": {
+        "line": 97012,
+        "column": 12
+      },
+      "end": {
+        "line": 97017,
+        "column": 13
+      }
+    },
+    "range": [
+      3250756,
+      3250965
+    ]
+  },
+  {
+    "nameValue": "awsAuthMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "relation",
+      "toMiddleware",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 97179,
+        "column": 33
+      },
+      "end": {
+        "line": 97185,
+        "column": 3
+      }
+    },
+    "range": [
+      3255683,
+      3255833
+    ]
+  },
+  {
+    "nameValue": "aws",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 97227,
+        "column": 17
+      },
+      "end": {
+        "line": 97233,
+        "column": 9
+      }
+    },
+    "range": [
+      3256959,
+      3257133
+    ]
+  },
+  {
+    "nameValue": "aws-cn",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 97268,
+        "column": 17
+      },
+      "end": {
+        "line": 97274,
+        "column": 9
+      }
+    },
+    "range": [
+      3259112,
+      3259313
+    ]
+  },
+  {
+    "nameValue": "aws-us-gov",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 97284,
+        "column": 17
+      },
+      "end": {
+        "line": 97290,
+        "column": 9
+      }
+    },
+    "range": [
+      3259643,
+      3259824
+    ]
+  },
+  {
+    "nameValue": "aws-iso",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 97302,
+        "column": 17
+      },
+      "end": {
+        "line": 97308,
+        "column": 9
+      }
+    },
+    "range": [
+      3260208,
+      3260386
+    ]
+  },
+  {
+    "nameValue": "aws-iso-b",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 97318,
+        "column": 17
+      },
+      "end": {
+        "line": 97324,
+        "column": 9
+      }
+    },
+    "range": [
+      3260719,
+      3260905
+    ]
+  },
+  {
+    "nameValue": "aws-iso-e",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 97333,
+        "column": 17
+      },
+      "end": {
+        "line": 97339,
+        "column": 9
+      }
+    },
+    "range": [
+      3261192,
+      3261380
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "value"
+    ],
+    "location": {
+      "start": {
+        "line": 97942,
+        "column": 39
+      },
+      "end": {
+        "line": 97942,
+        "column": 60
+      }
+    },
+    "range": [
+      3278959,
+      3278980
+    ]
+  },
+  {
+    "nameValue": "getUserAgentMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "priority",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 98272,
+        "column": 38
+      },
+      "end": {
+        "line": 98278,
+        "column": 3
+      }
+    },
+    "range": [
+      3289043,
+      3289186
+    ]
+  },
+  {
+    "nameValue": "@aws-sdk/client-sts",
+    "properties": [
+      "name",
+      "description",
+      "version",
+      "scripts",
+      "main",
+      "types",
+      "module",
+      "sideEffects",
+      "dependencies",
+      "devDependencies",
+      "engines",
+      "typesVersions",
+      "files",
+      "author",
+      "license",
+      "browser",
+      "react-native",
+      "homepage",
+      "repository"
+    ],
+    "location": {
+      "start": {
+        "line": 98307,
+        "column": 16
+      },
+      "end": {
+        "line": 98400,
+        "column": 3
+      }
+    },
+    "range": [
+      3290002,
+      3293712
+    ]
+  },
+  {
+    "nameValue": "AWS SDK for JavaScript Team",
+    "properties": [
+      "name",
+      "url"
+    ],
+    "location": {
+      "start": {
+        "line": 98384,
+        "column": 12
+      },
+      "end": {
+        "line": 98387,
+        "column": 5
+      }
+    },
+    "range": [
+      3293179,
+      3293278
+    ]
+  },
+  {
+    "nameValue": "ExpiredTokenException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 98443,
+        "column": 12
+      },
+      "end": {
+        "line": 98443,
+        "column": 69
+      }
+    },
+    "range": [
+      3295144,
+      3295201
+    ]
+  },
+  {
+    "nameValue": "MalformedPolicyDocumentException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 98452,
+        "column": 12
+      },
+      "end": {
+        "line": 98456,
+        "column": 7
+      }
+    },
+    "range": [
+      3295458,
+      3295557
+    ]
+  },
+  {
+    "nameValue": "PackedPolicyTooLargeException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 98465,
+        "column": 12
+      },
+      "end": {
+        "line": 98465,
+        "column": 77
+      }
+    },
+    "range": [
+      3295836,
+      3295901
+    ]
+  },
+  {
+    "nameValue": "RegionDisabledException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 98474,
+        "column": 12
+      },
+      "end": {
+        "line": 98474,
+        "column": 71
+      }
+    },
+    "range": [
+      3296174,
+      3296233
+    ]
+  },
+  {
+    "nameValue": "IDPRejectedClaimException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 98483,
+        "column": 12
+      },
+      "end": {
+        "line": 98483,
+        "column": 73
+      }
+    },
+    "range": [
+      3296494,
+      3296555
+    ]
+  },
+  {
+    "nameValue": "InvalidIdentityTokenException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 98492,
+        "column": 12
+      },
+      "end": {
+        "line": 98492,
+        "column": 77
+      }
+    },
+    "range": [
+      3296820,
+      3296885
+    ]
+  },
+  {
+    "nameValue": "IDPCommunicationErrorException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 98501,
+        "column": 12
+      },
+      "end": {
+        "line": 98501,
+        "column": 78
+      }
+    },
+    "range": [
+      3297158,
+      3297224
+    ]
+  },
+  {
+    "nameValue": "InvalidAuthorizationMessageException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 98510,
+        "column": 12
+      },
+      "end": {
+        "line": 98514,
+        "column": 7
+      }
+    },
+    "range": [
+      3297499,
+      3297602
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101017,
+        "column": 27
+      },
+      "end": {
+        "line": 101017,
+        "column": 79
+      }
+    },
+    "range": [
+      3373887,
+      3373939
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101018,
+        "column": 17
+      },
+      "end": {
+        "line": 101018,
+        "column": 67
+      }
+    },
+    "range": [
+      3373958,
+      3374008
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101019,
+        "column": 18
+      },
+      "end": {
+        "line": 101019,
+        "column": 61
+      }
+    },
+    "range": [
+      3374028,
+      3374071
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101020,
+        "column": 16
+      },
+      "end": {
+        "line": 101020,
+        "column": 57
+      }
+    },
+    "range": [
+      3374089,
+      3374130
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101021,
+        "column": 22
+      },
+      "end": {
+        "line": 101021,
+        "column": 77
+      }
+    },
+    "range": [
+      3374154,
+      3374209
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101074,
+        "column": 27
+      },
+      "end": {
+        "line": 101074,
+        "column": 79
+      }
+    },
+    "range": [
+      3375701,
+      3375753
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101075,
+        "column": 17
+      },
+      "end": {
+        "line": 101075,
+        "column": 67
+      }
+    },
+    "range": [
+      3375772,
+      3375822
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101076,
+        "column": 18
+      },
+      "end": {
+        "line": 101076,
+        "column": 61
+      }
+    },
+    "range": [
+      3375842,
+      3375885
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101077,
+        "column": 16
+      },
+      "end": {
+        "line": 101077,
+        "column": 57
+      }
+    },
+    "range": [
+      3375903,
+      3375944
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 101078,
+        "column": 22
+      },
+      "end": {
+        "line": 101078,
+        "column": 77
+      }
+    },
+    "range": [
+      3375968,
+      3376023
+    ]
+  },
+  {
+    "nameValue": "@aws-sdk/client-sso",
+    "properties": [
+      "name",
+      "description",
+      "version",
+      "scripts",
+      "main",
+      "types",
+      "module",
+      "sideEffects",
+      "dependencies",
+      "devDependencies",
+      "engines",
+      "typesVersions",
+      "files",
+      "author",
+      "license",
+      "browser",
+      "react-native",
+      "homepage",
+      "repository"
+    ],
+    "location": {
+      "start": {
+        "line": 101396,
+        "column": 16
+      },
+      "end": {
+        "line": 101483,
+        "column": 3
+      }
+    },
+    "range": [
+      3386196,
+      3389665
+    ]
+  },
+  {
+    "nameValue": "AWS SDK for JavaScript Team",
+    "properties": [
+      "name",
+      "url"
+    ],
+    "location": {
+      "start": {
+        "line": 101467,
+        "column": 12
+      },
+      "end": {
+        "line": 101470,
+        "column": 5
+      }
+    },
+    "range": [
+      3389132,
+      3389231
+    ]
+  },
+  {
+    "nameValue": "InvalidRequestException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 101890,
+        "column": 12
+      },
+      "end": {
+        "line": 101890,
+        "column": 71
+      }
+    },
+    "range": [
+      3401776,
+      3401835
+    ]
+  },
+  {
+    "nameValue": "ResourceNotFoundException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 101899,
+        "column": 12
+      },
+      "end": {
+        "line": 101899,
+        "column": 73
+      }
+    },
+    "range": [
+      3402097,
+      3402158
+    ]
+  },
+  {
+    "nameValue": "TooManyRequestsException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 101908,
+        "column": 12
+      },
+      "end": {
+        "line": 101908,
+        "column": 72
+      }
+    },
+    "range": [
+      3402424,
+      3402484
+    ]
+  },
+  {
+    "nameValue": "UnauthorizedException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 101917,
+        "column": 12
+      },
+      "end": {
+        "line": 101917,
+        "column": 69
+      }
+    },
+    "range": [
+      3402748,
+      3402805
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102286,
+        "column": 17
+      },
+      "end": {
+        "line": 102286,
+        "column": 67
+      }
+    },
+    "range": [
+      3414857,
+      3414907
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102287,
+        "column": 18
+      },
+      "end": {
+        "line": 102287,
+        "column": 61
+      }
+    },
+    "range": [
+      3414927,
+      3414970
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102288,
+        "column": 16
+      },
+      "end": {
+        "line": 102288,
+        "column": 57
+      }
+    },
+    "range": [
+      3414988,
+      3415029
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102289,
+        "column": 22
+      },
+      "end": {
+        "line": 102289,
+        "column": 77
+      }
+    },
+    "range": [
+      3415053,
+      3415108
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102343,
+        "column": 17
+      },
+      "end": {
+        "line": 102343,
+        "column": 67
+      }
+    },
+    "range": [
+      3416625,
+      3416675
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102344,
+        "column": 18
+      },
+      "end": {
+        "line": 102344,
+        "column": 61
+      }
+    },
+    "range": [
+      3416695,
+      3416738
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102345,
+        "column": 16
+      },
+      "end": {
+        "line": 102345,
+        "column": 57
+      }
+    },
+    "range": [
+      3416756,
+      3416797
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102346,
+        "column": 22
+      },
+      "end": {
+        "line": 102346,
+        "column": 77
+      }
+    },
+    "range": [
+      3416821,
+      3416876
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102399,
+        "column": 17
+      },
+      "end": {
+        "line": 102399,
+        "column": 67
+      }
+    },
+    "range": [
+      3418327,
+      3418377
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102400,
+        "column": 18
+      },
+      "end": {
+        "line": 102400,
+        "column": 61
+      }
+    },
+    "range": [
+      3418397,
+      3418440
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102401,
+        "column": 16
+      },
+      "end": {
+        "line": 102401,
+        "column": 57
+      }
+    },
+    "range": [
+      3418458,
+      3418499
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102402,
+        "column": 22
+      },
+      "end": {
+        "line": 102402,
+        "column": 77
+      }
+    },
+    "range": [
+      3418523,
+      3418578
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102454,
+        "column": 17
+      },
+      "end": {
+        "line": 102454,
+        "column": 67
+      }
+    },
+    "range": [
+      3419991,
+      3420041
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102455,
+        "column": 18
+      },
+      "end": {
+        "line": 102455,
+        "column": 61
+      }
+    },
+    "range": [
+      3420061,
+      3420104
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102456,
+        "column": 16
+      },
+      "end": {
+        "line": 102456,
+        "column": 57
+      }
+    },
+    "range": [
+      3420122,
+      3420163
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 102457,
+        "column": 22
+      },
+      "end": {
+        "line": 102457,
+        "column": 77
+      }
+    },
+    "range": [
+      3420187,
+      3420242
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "signingName",
+      "signingRegion"
+    ],
+    "location": {
+      "start": {
+        "line": 103285,
+        "column": 22
+      },
+      "end": {
+        "line": 103285,
+        "column": 73
+      }
+    },
+    "range": [
+      3444956,
+      3445007
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "signingName",
+      "signingRegion"
+    ],
+    "location": {
+      "start": {
+        "line": 103414,
+        "column": 20
+      },
+      "end": {
+        "line": 103414,
+        "column": 78
+      }
+    },
+    "range": [
+      3448538,
+      3448596
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103754,
+        "column": 27
+      },
+      "end": {
+        "line": 103754,
+        "column": 79
+      }
+    },
+    "range": [
+      3459755,
+      3459807
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103755,
+        "column": 17
+      },
+      "end": {
+        "line": 103755,
+        "column": 67
+      }
+    },
+    "range": [
+      3459826,
+      3459876
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103756,
+        "column": 18
+      },
+      "end": {
+        "line": 103756,
+        "column": 61
+      }
+    },
+    "range": [
+      3459896,
+      3459939
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103757,
+        "column": 16
+      },
+      "end": {
+        "line": 103757,
+        "column": 57
+      }
+    },
+    "range": [
+      3459957,
+      3459998
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103758,
+        "column": 22
+      },
+      "end": {
+        "line": 103758,
+        "column": 77
+      }
+    },
+    "range": [
+      3460022,
+      3460077
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103812,
+        "column": 27
+      },
+      "end": {
+        "line": 103812,
+        "column": 79
+      }
+    },
+    "range": [
+      3461614,
+      3461666
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103813,
+        "column": 17
+      },
+      "end": {
+        "line": 103813,
+        "column": 67
+      }
+    },
+    "range": [
+      3461685,
+      3461735
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103814,
+        "column": 18
+      },
+      "end": {
+        "line": 103814,
+        "column": 61
+      }
+    },
+    "range": [
+      3461755,
+      3461798
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103815,
+        "column": 16
+      },
+      "end": {
+        "line": 103815,
+        "column": 57
+      }
+    },
+    "range": [
+      3461816,
+      3461857
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103816,
+        "column": 22
+      },
+      "end": {
+        "line": 103816,
+        "column": 77
+      }
+    },
+    "range": [
+      3461881,
+      3461936
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103869,
+        "column": 27
+      },
+      "end": {
+        "line": 103869,
+        "column": 79
+      }
+    },
+    "range": [
+      3463451,
+      3463503
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103870,
+        "column": 17
+      },
+      "end": {
+        "line": 103870,
+        "column": 67
+      }
+    },
+    "range": [
+      3463522,
+      3463572
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103871,
+        "column": 18
+      },
+      "end": {
+        "line": 103871,
+        "column": 61
+      }
+    },
+    "range": [
+      3463592,
+      3463635
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103872,
+        "column": 16
+      },
+      "end": {
+        "line": 103872,
+        "column": 57
+      }
+    },
+    "range": [
+      3463653,
+      3463694
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103873,
+        "column": 22
+      },
+      "end": {
+        "line": 103873,
+        "column": 77
+      }
+    },
+    "range": [
+      3463718,
+      3463773
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103926,
+        "column": 27
+      },
+      "end": {
+        "line": 103926,
+        "column": 79
+      }
+    },
+    "range": [
+      3465249,
+      3465301
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103927,
+        "column": 17
+      },
+      "end": {
+        "line": 103927,
+        "column": 67
+      }
+    },
+    "range": [
+      3465320,
+      3465370
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103928,
+        "column": 18
+      },
+      "end": {
+        "line": 103928,
+        "column": 61
+      }
+    },
+    "range": [
+      3465390,
+      3465433
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103929,
+        "column": 16
+      },
+      "end": {
+        "line": 103929,
+        "column": 57
+      }
+    },
+    "range": [
+      3465451,
+      3465492
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103930,
+        "column": 22
+      },
+      "end": {
+        "line": 103930,
+        "column": 77
+      }
+    },
+    "range": [
+      3465516,
+      3465571
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103984,
+        "column": 27
+      },
+      "end": {
+        "line": 103984,
+        "column": 79
+      }
+    },
+    "range": [
+      3467068,
+      3467120
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103985,
+        "column": 17
+      },
+      "end": {
+        "line": 103985,
+        "column": 67
+      }
+    },
+    "range": [
+      3467139,
+      3467189
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103986,
+        "column": 18
+      },
+      "end": {
+        "line": 103986,
+        "column": 61
+      }
+    },
+    "range": [
+      3467209,
+      3467252
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103987,
+        "column": 16
+      },
+      "end": {
+        "line": 103987,
+        "column": 57
+      }
+    },
+    "range": [
+      3467270,
+      3467311
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 103988,
+        "column": 22
+      },
+      "end": {
+        "line": 103988,
+        "column": 77
+      }
+    },
+    "range": [
+      3467335,
+      3467390
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 104043,
+        "column": 27
+      },
+      "end": {
+        "line": 104043,
+        "column": 79
+      }
+    },
+    "range": [
+      3468940,
+      3468992
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 104044,
+        "column": 17
+      },
+      "end": {
+        "line": 104044,
+        "column": 67
+      }
+    },
+    "range": [
+      3469011,
+      3469061
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 104045,
+        "column": 18
+      },
+      "end": {
+        "line": 104045,
+        "column": 61
+      }
+    },
+    "range": [
+      3469081,
+      3469124
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 104046,
+        "column": 16
+      },
+      "end": {
+        "line": 104046,
+        "column": 57
+      }
+    },
+    "range": [
+      3469142,
+      3469183
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 104047,
+        "column": 22
+      },
+      "end": {
+        "line": 104047,
+        "column": 77
+      }
+    },
+    "range": [
+      3469207,
+      3469262
+    ]
+  },
+  {
+    "nameValue": "TimeoutError",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 107694,
+        "column": 14
+      },
+      "end": {
+        "line": 107694,
+        "column": 38
+      }
+    },
+    "range": [
+      3578730,
+      3578754
+    ]
+  },
+  {
+    "nameValue": "TimeoutError",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 107716,
+        "column": 75
+      },
+      "end": {
+        "line": 107718,
+        "column": 13
+      }
+    },
+    "range": [
+      3579365,
+      3579416
+    ]
+  },
+  {
+    "nameValue": "TimeoutError",
+    "properties": [
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 107914,
+        "column": 35
+      },
+      "end": {
+        "line": 107914,
+        "column": 59
+      }
+    },
+    "range": [
+      3585642,
+      3585666
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "$fault",
+      "$metadata"
+    ],
+    "location": {
+      "start": {
+        "line": 109025,
+        "column": 18
+      },
+      "end": {
+        "line": 109034,
+        "column": 9
+      }
+    },
+    "range": [
+      3620595,
+      3620826
+    ]
+  },
+  {
+    "nameValue": "hostHeaderMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "priority",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 109314,
+        "column": 36
+      },
+      "end": {
+        "line": 109320,
+        "column": 3
+      }
+    },
+    "range": [
+      3629165,
+      3629282
+    ]
+  },
+  {
+    "nameValue": "loggerMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "step",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 109387,
+        "column": 32
+      },
+      "end": {
+        "line": 109392,
+        "column": 3
+      }
+    },
+    "range": [
+      3631163,
+      3631262
+    ]
+  },
+  {
+    "nameValue": "recursionDetectionMiddleware",
+    "properties": [
+      "step",
+      "tags",
+      "name",
+      "override",
+      "priority"
+    ],
+    "location": {
+      "start": {
+        "line": 109430,
+        "column": 47
+      },
+      "end": {
+        "line": 109436,
+        "column": 3
+      }
+    },
+    "range": [
+      3632413,
+      3632553
+    ]
+  },
+  {
+    "nameValue": "sigv4",
+    "properties": [
+      "name",
+      "signingName",
+      "signingRegion",
+      "properties"
+    ],
+    "location": {
+      "start": {
+        "line": 110205,
+        "column": 12
+      },
+      "end": {
+        "line": 110210,
+        "column": 13
+      }
+    },
+    "range": [
+      3656149,
+      3656358
+    ]
+  },
+  {
+    "nameValue": "awsAuthMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "relation",
+      "toMiddleware",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 110372,
+        "column": 33
+      },
+      "end": {
+        "line": 110378,
+        "column": 3
+      }
+    },
+    "range": [
+      3661076,
+      3661226
+    ]
+  },
+  {
+    "nameValue": "aws",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "implicitGlobalRegion",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 110412,
+        "column": 17
+      },
+      "end": {
+        "line": 110419,
+        "column": 9
+      }
+    },
+    "range": [
+      3662078,
+      3662297
+    ]
+  },
+  {
+    "nameValue": "aws-cn",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "implicitGlobalRegion",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 110455,
+        "column": 17
+      },
+      "end": {
+        "line": 110462,
+        "column": 9
+      }
+    },
+    "range": [
+      3664343,
+      3664594
+    ]
+  },
+  {
+    "nameValue": "aws-us-gov",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "implicitGlobalRegion",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 110472,
+        "column": 17
+      },
+      "end": {
+        "line": 110479,
+        "column": 9
+      }
+    },
+    "range": [
+      3664924,
+      3665154
+    ]
+  },
+  {
+    "nameValue": "aws-iso",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "implicitGlobalRegion",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 110491,
+        "column": 17
+      },
+      "end": {
+        "line": 110498,
+        "column": 9
+      }
+    },
+    "range": [
+      3665538,
+      3665765
+    ]
+  },
+  {
+    "nameValue": "aws-iso-b",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "implicitGlobalRegion",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 110508,
+        "column": 17
+      },
+      "end": {
+        "line": 110515,
+        "column": 9
+      }
+    },
+    "range": [
+      3666098,
+      3666334
+    ]
+  },
+  {
+    "nameValue": "aws-iso-e",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "implicitGlobalRegion",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 110524,
+        "column": 17
+      },
+      "end": {
+        "line": 110531,
+        "column": 9
+      }
+    },
+    "range": [
+      3666621,
+      3666859
+    ]
+  },
+  {
+    "nameValue": "aws-iso-f",
+    "properties": [
+      "dnsSuffix",
+      "dualStackDnsSuffix",
+      "implicitGlobalRegion",
+      "name",
+      "supportsDualStack",
+      "supportsFIPS"
+    ],
+    "location": {
+      "start": {
+        "line": 110537,
+        "column": 17
+      },
+      "end": {
+        "line": 110544,
+        "column": 9
+      }
+    },
+    "range": [
+      3666991,
+      3667230
+    ]
+  },
+  {
+    "nameValue": null,
+    "properties": [
+      "name",
+      "value"
+    ],
+    "location": {
+      "start": {
+        "line": 111157,
+        "column": 39
+      },
+      "end": {
+        "line": 111157,
+        "column": 60
+      }
+    },
+    "range": [
+      3684911,
+      3684932
+    ]
+  },
+  {
+    "nameValue": "getUserAgentMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "priority",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 111507,
+        "column": 38
+      },
+      "end": {
+        "line": 111513,
+        "column": 3
+      }
+    },
+    "range": [
+      3695645,
+      3695788
+    ]
+  },
+  {
+    "nameValue": "contentLengthMiddleware",
+    "properties": [
+      "step",
+      "tags",
+      "name",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 111863,
+        "column": 12
+      },
+      "end": {
+        "line": 111868,
+        "column": 5
+      }
+    },
+    "range": [
+      3706775,
+      3706916
+    ]
+  },
+  {
+    "nameValue": "deserializerMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 112371,
+        "column": 10
+      },
+      "end": {
+        "line": 112376,
+        "column": 5
+      }
+    },
+    "range": [
+      3722125,
+      3722247
+    ]
+  },
+  {
+    "nameValue": "serializerMiddleware",
+    "properties": [
+      "name",
+      "step",
+      "tags",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 112377,
+        "column": 10
+      },
+      "end": {
+        "line": 112382,
+        "column": 5
+      }
+    },
+    "range": [
+      3722259,
+      3722375
+    ]
+  },
+  {
+    "nameValue": "endpointV2Middleware",
+    "properties": [
+      "step",
+      "tags",
+      "name",
+      "override",
+      "relation",
+      "toMiddleware"
+    ],
+    "location": {
+      "start": {
+        "line": 112584,
+        "column": 10
+      },
+      "end": {
+        "line": 112591,
+        "column": 5
+      }
+    },
+    "range": [
+      3728823,
+      3729058
+    ]
+  },
+  {
+    "nameValue": "omitRetryHeadersMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "relation",
+      "toMiddleware",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 113664,
+        "column": 10
+      },
+      "end": {
+        "line": 113670,
+        "column": 5
+      }
+    },
+    "range": [
+      3761689,
+      3761881
+    ]
+  },
+  {
+    "nameValue": "retryMiddleware",
+    "properties": [
+      "name",
+      "tags",
+      "step",
+      "priority",
+      "override"
+    ],
+    "location": {
+      "start": {
+        "line": 113759,
+        "column": 10
+      },
+      "end": {
+        "line": 113765,
+        "column": 5
+      }
+    },
+    "range": [
+      3764815,
+      3764951
+    ]
+  },
+  {
+    "nameValue": "@aws-sdk/client-bedrock-runtime",
+    "properties": [
+      "name",
+      "description",
+      "version",
+      "scripts",
+      "main",
+      "types",
+      "module",
+      "sideEffects",
+      "dependencies",
+      "devDependencies",
+      "engines",
+      "typesVersions",
+      "files",
+      "author",
+      "license",
+      "browser",
+      "react-native",
+      "homepage",
+      "repository"
+    ],
+    "location": {
+      "start": {
+        "line": 113800,
+        "column": 16
+      },
+      "end": {
+        "line": 113895,
+        "column": 3
+      }
+    },
+    "range": [
+      3765881,
+      3769772
+    ]
+  },
+  {
+    "nameValue": "AWS SDK for JavaScript Team",
+    "properties": [
+      "name",
+      "url"
+    ],
+    "location": {
+      "start": {
+        "line": 113879,
+        "column": 12
+      },
+      "end": {
+        "line": 113882,
+        "column": 5
+      }
+    },
+    "range": [
+      3769215,
+      3769314
+    ]
+  },
+  {
+    "nameValue": "@aws-sdk/client-sts",
+    "properties": [
+      "name",
+      "description",
+      "version",
+      "scripts",
+      "main",
+      "types",
+      "module",
+      "sideEffects",
+      "dependencies",
+      "devDependencies",
+      "engines",
+      "typesVersions",
+      "files",
+      "author",
+      "license",
+      "browser",
+      "react-native",
+      "homepage",
+      "repository"
+    ],
+    "location": {
+      "start": {
+        "line": 113920,
+        "column": 16
+      },
+      "end": {
+        "line": 114014,
+        "column": 3
+      }
+    },
+    "range": [
+      3770524,
+      3774250
+    ]
+  },
+  {
+    "nameValue": "AWS SDK for JavaScript Team",
+    "properties": [
+      "name",
+      "url"
+    ],
+    "location": {
+      "start": {
+        "line": 113998,
+        "column": 12
+      },
+      "end": {
+        "line": 114001,
+        "column": 5
+      }
+    },
+    "range": [
+      3773717,
+      3773816
+    ]
+  },
+  {
+    "nameValue": "ExpiredTokenException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 114057,
+        "column": 12
+      },
+      "end": {
+        "line": 114057,
+        "column": 69
+      }
+    },
+    "range": [
+      3775682,
+      3775739
+    ]
+  },
+  {
+    "nameValue": "MalformedPolicyDocumentException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 114066,
+        "column": 12
+      },
+      "end": {
+        "line": 114070,
+        "column": 7
+      }
+    },
+    "range": [
+      3775996,
+      3776095
+    ]
+  },
+  {
+    "nameValue": "PackedPolicyTooLargeException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 114079,
+        "column": 12
+      },
+      "end": {
+        "line": 114079,
+        "column": 77
+      }
+    },
+    "range": [
+      3776374,
+      3776439
+    ]
+  },
+  {
+    "nameValue": "RegionDisabledException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 114088,
+        "column": 12
+      },
+      "end": {
+        "line": 114088,
+        "column": 71
+      }
+    },
+    "range": [
+      3776712,
+      3776771
+    ]
+  },
+  {
+    "nameValue": "IDPRejectedClaimException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 114097,
+        "column": 12
+      },
+      "end": {
+        "line": 114097,
+        "column": 73
+      }
+    },
+    "range": [
+      3777032,
+      3777093
+    ]
+  },
+  {
+    "nameValue": "InvalidIdentityTokenException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 114106,
+        "column": 12
+      },
+      "end": {
+        "line": 114106,
+        "column": 77
+      }
+    },
+    "range": [
+      3777358,
+      3777423
+    ]
+  },
+  {
+    "nameValue": "IDPCommunicationErrorException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 114115,
+        "column": 12
+      },
+      "end": {
+        "line": 114115,
+        "column": 78
+      }
+    },
+    "range": [
+      3777696,
+      3777762
+    ]
+  },
+  {
+    "nameValue": "InvalidAuthorizationMessageException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 114124,
+        "column": 12
+      },
+      "end": {
+        "line": 114128,
+        "column": 7
+      }
+    },
+    "range": [
+      3778037,
+      3778140
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116361,
+        "column": 27
+      },
+      "end": {
+        "line": 116361,
+        "column": 79
+      }
+    },
+    "range": [
+      3846580,
+      3846632
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116362,
+        "column": 17
+      },
+      "end": {
+        "line": 116362,
+        "column": 67
+      }
+    },
+    "range": [
+      3846651,
+      3846701
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116363,
+        "column": 18
+      },
+      "end": {
+        "line": 116363,
+        "column": 61
+      }
+    },
+    "range": [
+      3846721,
+      3846764
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116364,
+        "column": 16
+      },
+      "end": {
+        "line": 116364,
+        "column": 57
+      }
+    },
+    "range": [
+      3846782,
+      3846823
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116365,
+        "column": 22
+      },
+      "end": {
+        "line": 116365,
+        "column": 77
+      }
+    },
+    "range": [
+      3846847,
+      3846902
+    ]
+  },
+  {
+    "nameValue": "useGlobalEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116423,
+        "column": 27
+      },
+      "end": {
+        "line": 116423,
+        "column": 79
+      }
+    },
+    "range": [
+      3848555,
+      3848607
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116424,
+        "column": 17
+      },
+      "end": {
+        "line": 116424,
+        "column": 67
+      }
+    },
+    "range": [
+      3848626,
+      3848676
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116425,
+        "column": 18
+      },
+      "end": {
+        "line": 116425,
+        "column": 61
+      }
+    },
+    "range": [
+      3848696,
+      3848739
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116426,
+        "column": 16
+      },
+      "end": {
+        "line": 116426,
+        "column": 57
+      }
+    },
+    "range": [
+      3848757,
+      3848798
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 116427,
+        "column": 22
+      },
+      "end": {
+        "line": 116427,
+        "column": 77
+      }
+    },
+    "range": [
+      3848822,
+      3848877
+    ]
+  },
+  {
+    "nameValue": "@aws-sdk/client-sso",
+    "properties": [
+      "name",
+      "description",
+      "version",
+      "scripts",
+      "main",
+      "types",
+      "module",
+      "sideEffects",
+      "dependencies",
+      "devDependencies",
+      "engines",
+      "typesVersions",
+      "files",
+      "author",
+      "license",
+      "browser",
+      "react-native",
+      "homepage",
+      "repository"
+    ],
+    "location": {
+      "start": {
+        "line": 117175,
+        "column": 16
+      },
+      "end": {
+        "line": 117263,
+        "column": 3
+      }
+    },
+    "range": [
+      3872681,
+      3876166
+    ]
+  },
+  {
+    "nameValue": "AWS SDK for JavaScript Team",
+    "properties": [
+      "name",
+      "url"
+    ],
+    "location": {
+      "start": {
+        "line": 117247,
+        "column": 12
+      },
+      "end": {
+        "line": 117250,
+        "column": 5
+      }
+    },
+    "range": [
+      3875633,
+      3875732
+    ]
+  },
+  {
+    "nameValue": "InvalidRequestException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 118009,
+        "column": 12
+      },
+      "end": {
+        "line": 118009,
+        "column": 71
+      }
+    },
+    "range": [
+      3899360,
+      3899419
+    ]
+  },
+  {
+    "nameValue": "ResourceNotFoundException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 118018,
+        "column": 12
+      },
+      "end": {
+        "line": 118018,
+        "column": 73
+      }
+    },
+    "range": [
+      3899681,
+      3899742
+    ]
+  },
+  {
+    "nameValue": "TooManyRequestsException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 118027,
+        "column": 12
+      },
+      "end": {
+        "line": 118027,
+        "column": 72
+      }
+    },
+    "range": [
+      3900008,
+      3900068
+    ]
+  },
+  {
+    "nameValue": "UnauthorizedException",
+    "properties": [
+      "name",
+      "$fault",
+      "invalidProperty"
+    ],
+    "location": {
+      "start": {
+        "line": 118036,
+        "column": 12
+      },
+      "end": {
+        "line": 118036,
+        "column": 69
+      }
+    },
+    "range": [
+      3900332,
+      3900389
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118402,
+        "column": 17
+      },
+      "end": {
+        "line": 118402,
+        "column": 67
+      }
+    },
+    "range": [
+      3912296,
+      3912346
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118403,
+        "column": 18
+      },
+      "end": {
+        "line": 118403,
+        "column": 61
+      }
+    },
+    "range": [
+      3912366,
+      3912409
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118404,
+        "column": 16
+      },
+      "end": {
+        "line": 118404,
+        "column": 57
+      }
+    },
+    "range": [
+      3912427,
+      3912468
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118405,
+        "column": 22
+      },
+      "end": {
+        "line": 118405,
+        "column": 77
+      }
+    },
+    "range": [
+      3912492,
+      3912547
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118464,
+        "column": 17
+      },
+      "end": {
+        "line": 118464,
+        "column": 67
+      }
+    },
+    "range": [
+      3914217,
+      3914267
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118465,
+        "column": 18
+      },
+      "end": {
+        "line": 118465,
+        "column": 61
+      }
+    },
+    "range": [
+      3914287,
+      3914330
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118466,
+        "column": 16
+      },
+      "end": {
+        "line": 118466,
+        "column": 57
+      }
+    },
+    "range": [
+      3914348,
+      3914389
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118467,
+        "column": 22
+      },
+      "end": {
+        "line": 118467,
+        "column": 77
+      }
+    },
+    "range": [
+      3914413,
+      3914468
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118525,
+        "column": 17
+      },
+      "end": {
+        "line": 118525,
+        "column": 67
+      }
+    },
+    "range": [
+      3916070,
+      3916120
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118526,
+        "column": 18
+      },
+      "end": {
+        "line": 118526,
+        "column": 61
+      }
+    },
+    "range": [
+      3916140,
+      3916183
+    ]
+  },
+  {
+    "nameValue": "region",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118527,
+        "column": 16
+      },
+      "end": {
+        "line": 118527,
+        "column": 57
+      }
+    },
+    "range": [
+      3916201,
+      3916242
+    ]
+  },
+  {
+    "nameValue": "useDualstackEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118528,
+        "column": 22
+      },
+      "end": {
+        "line": 118528,
+        "column": 77
+      }
+    },
+    "range": [
+      3916266,
+      3916321
+    ]
+  },
+  {
+    "nameValue": "useFipsEndpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118585,
+        "column": 17
+      },
+      "end": {
+        "line": 118585,
+        "column": 67
+      }
+    },
+    "range": [
+      3917881,
+      3917931
+    ]
+  },
+  {
+    "nameValue": "endpoint",
+    "properties": [
+      "type",
+      "name"
+    ],
+    "location": {
+      "start": {
+        "line": 118586,
+        "column": 18
+      },
+      "end": {
+        "line": 118586,
+        "column": 61
+      }
+    },
+    "range": [
+      3917951,
+      3917994
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "branches": {
+    "if": [
+      {
+        "line": 193121,
+        "hasElse": false,
+        "test": "y1.length > 0",
+        "consequentStart": 193121,
+        "consequentEnd": 193121,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 193122,
+        "hasElse": false,
+        "test": "t1",
+        "consequentStart": 193122,
+        "consequentEnd": 193131,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 193123,
+        "hasElse": false,
+        "test": "SequenceExpression",
+        "consequentStart": 193129,
+        "consequentEnd": 193129,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 193130,
+        "hasElse": false,
+        "test": "c.length === 0",
+        "consequentStart": 193130,
+        "consequentEnd": 193130,
+        "alternateStart": null,
+        "alternateEnd": null
+      }
+    ],
+    "switch": [],
+    "ternary": []
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": []
+  },
+  "errorHandling": {
+    "try": []
+  },
+  "returns": [
+    {
+      "line": 193130,
+      "hasArgument": false,
+      "argumentType": null
+    }
+  ],
+  "yields": [],
+  "awaits": [],
+  "functionCalls": {
+    "F2": [
+      {
+        "line": 193121,
+        "argumentCount": 0
+      }
+    ],
+    "c.substring": [
+      {
+        "line": 193129,
+        "argumentCount": 1
+      }
+    ],
+    "B4": [
+      {
+        "line": 193132,
+        "argumentCount": 2
+      }
+    ]
+  }
+}

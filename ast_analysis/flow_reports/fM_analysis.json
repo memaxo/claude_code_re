@@ -1,0 +1,556 @@
+{
+  "branches": {
+    "if": [
+      {
+        "line": 260888,
+        "hasElse": false,
+        "test": "!W || parseInt(...) < 18",
+        "consequentStart": 260889,
+        "consequentEnd": 260892,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260893,
+        "hasElse": false,
+        "test": "Object.keys(...).length > 0",
+        "consequentStart": 260894,
+        "consequentEnd": 260894,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260895,
+        "hasElse": false,
+        "test": "AwaitExpression && !oR(...) && !G && !0 && !0",
+        "consequentStart": 260901,
+        "consequentEnd": 260929,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260931,
+        "hasElse": true,
+        "test": "V.status === \"restored\"",
+        "consequentStart": 260932,
+        "consequentEnd": 260936,
+        "alternateStart": 260937,
+        "alternateEnd": 260942
+      },
+      {
+        "line": 260937,
+        "hasElse": false,
+        "test": "V.status === \"failed\"",
+        "consequentStart": 260938,
+        "consequentEnd": 260942,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260945,
+        "hasElse": true,
+        "test": "H.status === \"restored\"",
+        "consequentStart": 260946,
+        "consequentEnd": 260950,
+        "alternateStart": 260951,
+        "alternateEnd": 260956
+      },
+      {
+        "line": 260951,
+        "hasElse": false,
+        "test": "H.status === \"failed\"",
+        "consequentStart": 260952,
+        "consequentEnd": 260956,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260961,
+        "hasElse": false,
+        "test": "SequenceExpression",
+        "consequentStart": 260961,
+        "consequentEnd": 260961,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260963,
+        "hasElse": false,
+        "test": "SequenceExpression",
+        "consequentStart": 260968,
+        "consequentEnd": 260983,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260969,
+        "hasElse": false,
+        "test": "process.platform !== \"win32\" && typeofprocess.getuid === \"function\" && process.getuid(...) === 0",
+        "consequentStart": 260974,
+        "consequentEnd": 260977,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260978,
+        "hasElse": false,
+        "test": "!f0(...).bypassPermissionsModeAccepted",
+        "consequentStart": 260979,
+        "consequentEnd": 260982,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260984,
+        "hasElse": false,
+        "test": "m$2(...)",
+        "consequentStart": 260984,
+        "consequentEnd": 260984,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 260986,
+        "hasElse": false,
+        "test": "X.lastCost !== void0 && X.lastDuration !== void0",
+        "consequentStart": 260987,
+        "consequentEnd": 261003,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 261004,
+        "hasElse": false,
+        "test": "!Y",
+        "consequentStart": 261004,
+        "consequentEnd": 261004,
+        "alternateStart": null,
+        "alternateEnd": null
+      }
+    ],
+    "switch": [],
+    "ternary": [
+      {
+        "line": 260920,
+        "test": "H instanceof Error"
+      },
+      {
+        "line": 260958,
+        "test": "H instanceof Error"
+      }
+    ]
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": []
+  },
+  "errorHandling": {
+    "try": [
+      {
+        "line": 260907,
+        "blockStart": 260907,
+        "blockEnd": 260919,
+        "hasCatch": true,
+        "catchStart": 260919,
+        "catchEnd": 260928,
+        "catchParam": "H",
+        "hasFinally": false,
+        "finallyStart": null,
+        "finallyEnd": null
+      },
+      {
+        "line": 260943,
+        "blockStart": 260943,
+        "blockEnd": 260957,
+        "hasCatch": true,
+        "catchStart": 260957,
+        "catchEnd": 260959,
+        "catchParam": "H",
+        "hasFinally": false,
+        "finallyStart": null,
+        "finallyEnd": null
+      }
+    ]
+  },
+  "returns": [],
+  "yields": [],
+  "awaits": [
+    {
+      "line": 260896,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 260909,
+      "argumentType": "NewExpression"
+    },
+    {
+      "line": 260915,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 260944,
+      "argumentType": "CallExpression"
+    }
+  ],
+  "functionCalls": {
+    "[expr].match": [
+      {
+        "line": 260887,
+        "argumentCount": 1
+      }
+    ],
+    "parseInt": [
+      {
+        "line": 260888,
+        "argumentCount": 1
+      }
+    ],
+    "console.error": [
+      {
+        "line": 260889,
+        "argumentCount": 1
+      },
+      {
+        "line": 260938,
+        "argumentCount": 1
+      },
+      {
+        "line": 260952,
+        "argumentCount": 1
+      },
+      {
+        "line": 260974,
+        "argumentCount": 1
+      },
+      {
+        "line": 260979,
+        "argumentCount": 1
+      }
+    ],
+    "[expr].red": [
+      {
+        "line": 260890,
+        "argumentCount": 1
+      }
+    ],
+    "process.exit": [
+      {
+        "line": 260892,
+        "argumentCount": 1
+      },
+      {
+        "line": 260918,
+        "argumentCount": 1
+      },
+      {
+        "line": 260977,
+        "argumentCount": 1
+      },
+      {
+        "line": 260982,
+        "argumentCount": 1
+      }
+    ],
+    "Object.keys": [
+      {
+        "line": 260893,
+        "argumentCount": 1
+      }
+    ],
+    "f0": [
+      {
+        "line": 260893,
+        "argumentCount": 0
+      },
+      {
+        "line": 260894,
+        "argumentCount": 0
+      },
+      {
+        "line": 260978,
+        "argumentCount": 0
+      }
+    ],
+    "Object.assign": [
+      {
+        "line": 260894,
+        "argumentCount": 2
+      }
+    ],
+    "v$": [
+      {
+        "line": 260896,
+        "argumentCount": 1
+      }
+    ],
+    "oR": [
+      {
+        "line": 260897,
+        "argumentCount": 0
+      }
+    ],
+    "console.log": [
+      {
+        "line": 260902,
+        "argumentCount": 1
+      },
+      {
+        "line": 260903,
+        "argumentCount": 1
+      },
+      {
+        "line": 260906,
+        "argumentCount": 1
+      },
+      {
+        "line": 260916,
+        "argumentCount": 1
+      },
+      {
+        "line": 260917,
+        "argumentCount": 1
+      },
+      {
+        "line": 260923,
+        "argumentCount": 1
+      },
+      {
+        "line": 260932,
+        "argumentCount": 1
+      },
+      {
+        "line": 260946,
+        "argumentCount": 1
+      }
+    ],
+    "_0.yellow": [
+      {
+        "line": 260902,
+        "argumentCount": 1
+      },
+      {
+        "line": 260933,
+        "argumentCount": 1
+      },
+      {
+        "line": 260947,
+        "argumentCount": 1
+      }
+    ],
+    "x1": [
+      {
+        "line": 260908,
+        "argumentCount": 2
+      },
+      {
+        "line": 260915,
+        "argumentCount": 2
+      },
+      {
+        "line": 260922,
+        "argumentCount": 2
+      },
+      {
+        "line": 260984,
+        "argumentCount": 2
+      },
+      {
+        "line": 260987,
+        "argumentCount": 2
+      }
+    ],
+    "kI": [
+      {
+        "line": 260910,
+        "argumentCount": 1
+      }
+    ],
+    "[expr].createElement": [
+      {
+        "line": 260910,
+        "argumentCount": 2
+      }
+    ],
+    "[expr].then": [
+      {
+        "line": 260911,
+        "argumentCount": 1
+      }
+    ],
+    "J": [
+      {
+        "line": 260911,
+        "argumentCount": 0
+      }
+    ],
+    "H": [
+      {
+        "line": 260912,
+        "argumentCount": 0
+      }
+    ],
+    "_0.green": [
+      {
+        "line": 260916,
+        "argumentCount": 1
+      }
+    ],
+    "String": [
+      {
+        "line": 260920,
+        "argumentCount": 1
+      },
+      {
+        "line": 260958,
+        "argumentCount": 1
+      }
+    ],
+    "l1": [
+      {
+        "line": 260921,
+        "argumentCount": 1
+      },
+      {
+        "line": 260958,
+        "argumentCount": 1
+      }
+    ],
+    "_0.red": [
+      {
+        "line": 260924,
+        "argumentCount": 1
+      },
+      {
+        "line": 260939,
+        "argumentCount": 1
+      },
+      {
+        "line": 260953,
+        "argumentCount": 1
+      }
+    ],
+    "R$2": [
+      {
+        "line": 260930,
+        "argumentCount": 0
+      }
+    ],
+    "A91": [
+      {
+        "line": 260944,
+        "argumentCount": 0
+      }
+    ],
+    "ms2": [
+      {
+        "line": 260961,
+        "argumentCount": 0
+      }
+    ],
+    "l61": [
+      {
+        "line": 260961,
+        "argumentCount": 0
+      }
+    ],
+    "g81": [
+      {
+        "line": 260961,
+        "argumentCount": 1
+      }
+    ],
+    "uG": [
+      {
+        "line": 260961,
+        "argumentCount": 1
+      }
+    ],
+    "uP": [
+      {
+        "line": 260961,
+        "argumentCount": 0
+      }
+    ],
+    "Au": [
+      {
+        "line": 260961,
+        "argumentCount": 0
+      }
+    ],
+    "Hz": [
+      {
+        "line": 260961,
+        "argumentCount": 0
+      }
+    ],
+    "HX1": [
+      {
+        "line": 260961,
+        "argumentCount": 0
+      }
+    ],
+    "setTimeout": [
+      {
+        "line": 260964,
+        "argumentCount": 2
+      }
+    ],
+    "w.abort": [
+      {
+        "line": 260964,
+        "argumentCount": 0
+      }
+    ],
+    "Hr": [
+      {
+        "line": 260965,
+        "argumentCount": 3
+      }
+    ],
+    "l0": [
+      {
+        "line": 260965,
+        "argumentCount": 0
+      }
+    ],
+    "oA": [
+      {
+        "line": 260966,
+        "argumentCount": 1
+      }
+    ],
+    "process.getuid": [
+      {
+        "line": 260972,
+        "argumentCount": 0
+      }
+    ],
+    "m$2": [
+      {
+        "line": 260984,
+        "argumentCount": 0
+      }
+    ],
+    "B9": [
+      {
+        "line": 260985,
+        "argumentCount": 0
+      }
+    ],
+    "o3": [
+      {
+        "line": 260995,
+        "argumentCount": 1
+      }
+    ],
+    "Ib2": [
+      {
+        "line": 261004,
+        "argumentCount": 0
+      }
+    ]
+  }
+}

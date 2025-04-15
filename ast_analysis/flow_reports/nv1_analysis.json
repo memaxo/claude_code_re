@@ -1,0 +1,50 @@
+{
+  "branches": {
+    "if": [],
+    "switch": [],
+    "ternary": [
+      {
+        "line": 247807,
+        "test": "I === \"bypassPermissions\""
+      }
+    ]
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": []
+  },
+  "errorHandling": {
+    "try": []
+  },
+  "returns": [
+    {
+      "line": 247807,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    }
+  ],
+  "yields": [],
+  "awaits": [
+    {
+      "line": 247807,
+      "argumentType": "ConditionalExpression"
+    }
+  ],
+  "functionCalls": {
+    "[expr].filter": [
+      {
+        "line": 247807,
+        "argumentCount": 1
+      }
+    ],
+    "oU": [
+      {
+        "line": 247807,
+        "argumentCount": 0
+      }
+    ]
+  }
+}

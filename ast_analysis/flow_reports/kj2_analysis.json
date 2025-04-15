@@ -1,0 +1,296 @@
+{
+  "branches": {
+    "if": [
+      {
+        "line": 237303,
+        "hasElse": false,
+        "test": "W.result",
+        "consequentStart": 237303,
+        "consequentEnd": 237303,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 237304,
+        "hasElse": false,
+        "test": "qj2(...)",
+        "consequentStart": 237305,
+        "consequentEnd": 237314,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 237316,
+        "hasElse": false,
+        "test": "J === TemplateLiteral",
+        "consequentStart": 237316,
+        "consequentEnd": 237316,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 237324,
+        "hasElse": false,
+        "test": "Z.abortController.signal.aborted",
+        "consequentStart": 237324,
+        "consequentEnd": 237324,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 237326,
+        "hasElse": false,
+        "test": "ChainExpression || B.length < 2",
+        "consequentStart": 237326,
+        "consequentEnd": 237326,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 237330,
+        "hasElse": false,
+        "test": "B.every(...) && B.filter(...).length < 2",
+        "consequentStart": 237336,
+        "consequentEnd": 237340,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 237343,
+        "hasElse": false,
+        "test": "!J.result",
+        "consequentStart": 237343,
+        "consequentEnd": 237354,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 237345,
+        "hasElse": true,
+        "test": "A === void0",
+        "consequentStart": 237345,
+        "consequentEnd": 237345,
+        "alternateStart": 237346,
+        "alternateEnd": 237353
+      },
+      {
+        "line": 237346,
+        "hasElse": true,
+        "test": "A === null",
+        "consequentStart": 237346,
+        "consequentEnd": 237349,
+        "alternateStart": 237350,
+        "alternateEnd": 237353
+      }
+    ],
+    "switch": [],
+    "ternary": [
+      {
+        "line": 237355,
+        "test": "X"
+      }
+    ]
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": [
+      {
+        "line": 237328,
+        "left": "J",
+        "right": "B",
+        "await": false
+      },
+      {
+        "line": 237342,
+        "left": "J",
+        "right": "w.values(...)",
+        "await": false
+      },
+      {
+        "line": 237350,
+        "left": "D",
+        "right": "A",
+        "await": false
+      }
+    ]
+  },
+  "errorHandling": {
+    "try": []
+  },
+  "returns": [
+    {
+      "line": 237303,
+      "hasArgument": true,
+      "argumentType": "Identifier"
+    },
+    {
+      "line": 237305,
+      "hasArgument": true,
+      "argumentType": "ObjectExpression"
+    },
+    {
+      "line": 237316,
+      "hasArgument": true,
+      "argumentType": "UnaryExpression"
+    },
+    {
+      "line": 237317,
+      "hasArgument": true,
+      "argumentType": "UnaryExpression"
+    },
+    {
+      "line": 237326,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 237332,
+      "hasArgument": true,
+      "argumentType": "UnaryExpression"
+    },
+    {
+      "line": 237336,
+      "hasArgument": true,
+      "argumentType": "ObjectExpression"
+    },
+    {
+      "line": 237356,
+      "hasArgument": true,
+      "argumentType": "ObjectExpression"
+    }
+  ],
+  "yields": [],
+  "awaits": [
+    {
+      "line": 237319,
+      "argumentType": "CallExpression"
+    }
+  ],
+  "functionCalls": {
+    "Gd1": [
+      {
+        "line": 237302,
+        "argumentCount": 2
+      }
+    ],
+    "Z.getToolPermissionContext": [
+      {
+        "line": 237302,
+        "argumentCount": 0
+      },
+      {
+        "line": 237325,
+        "argumentCount": 0
+      }
+    ],
+    "qj2": [
+      {
+        "line": 237304,
+        "argumentCount": 1
+      }
+    ],
+    "[expr].filter": [
+      {
+        "line": 237315,
+        "argumentCount": 1
+      }
+    ],
+    "TU": [
+      {
+        "line": 237315,
+        "argumentCount": 1
+      }
+    ],
+    "l0": [
+      {
+        "line": 237316,
+        "argumentCount": 0
+      }
+    ],
+    "G": [
+      {
+        "line": 237319,
+        "argumentCount": 3
+      }
+    ],
+    "bj2": [
+      {
+        "line": 237326,
+        "argumentCount": 3
+      },
+      {
+        "line": 237329,
+        "argumentCount": 3
+      }
+    ],
+    "w.set": [
+      {
+        "line": 237329,
+        "argumentCount": 2
+      }
+    ],
+    "[expr].get": [
+      {
+        "line": 237329,
+        "argumentCount": 1
+      }
+    ],
+    "B.every": [
+      {
+        "line": 237331,
+        "argumentCount": 1
+      }
+    ],
+    "w.get": [
+      {
+        "line": 237332,
+        "argumentCount": 1
+      }
+    ],
+    "B.filter": [
+      {
+        "line": 237334,
+        "argumentCount": 1
+      }
+    ],
+    "J.startsWith": [
+      {
+        "line": 237334,
+        "argumentCount": 1
+      }
+    ],
+    "w.values": [
+      {
+        "line": 237342,
+        "argumentCount": 0
+      }
+    ],
+    "J7": [
+      {
+        "line": 237351,
+        "argumentCount": 1
+      }
+    ],
+    "X.set": [
+      {
+        "line": 237352,
+        "argumentCount": 2
+      }
+    ],
+    "Array.from": [
+      {
+        "line": 237355,
+        "argumentCount": 1
+      }
+    ],
+    "X.values": [
+      {
+        "line": 237355,
+        "argumentCount": 0
+      }
+    ]
+  }
+}

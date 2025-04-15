@@ -1,0 +1,103 @@
+{
+  "branches": {
+    "if": [
+      {
+        "line": 232788,
+        "hasElse": false,
+        "test": "I && process.env.ANTHROPIC_API_KEY",
+        "consequentStart": 232788,
+        "consequentEnd": 232788,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 232789,
+        "hasElse": false,
+        "test": "!1 === \"true\"",
+        "consequentStart": 232789,
+        "consequentEnd": 232793,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 232790,
+        "hasElse": false,
+        "test": "!process.env.ANTHROPIC_API_KEY",
+        "consequentStart": 232791,
+        "consequentEnd": 232791,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 232796,
+        "hasElse": false,
+        "test": "G",
+        "consequentStart": 232796,
+        "consequentEnd": 232796,
+        "alternateStart": null,
+        "alternateEnd": null
+      }
+    ],
+    "switch": [],
+    "ternary": []
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": []
+  },
+  "errorHandling": {
+    "try": []
+  },
+  "returns": [
+    {
+      "line": 232788,
+      "hasArgument": true,
+      "argumentType": "MemberExpression"
+    },
+    {
+      "line": 232792,
+      "hasArgument": true,
+      "argumentType": "MemberExpression"
+    },
+    {
+      "line": 232796,
+      "hasArgument": true,
+      "argumentType": "Identifier"
+    },
+    {
+      "line": 232797,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 232799,
+      "hasArgument": true,
+      "argumentType": "Literal"
+    }
+  ],
+  "yields": [],
+  "awaits": [],
+  "functionCalls": {
+    "f0": [
+      {
+        "line": 232787,
+        "argumentCount": 0
+      }
+    ],
+    "Au": [
+      {
+        "line": 232795,
+        "argumentCount": 0
+      }
+    ],
+    "q91": [
+      {
+        "line": 232797,
+        "argumentCount": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "branches": {
+    "if": [
+      {
+        "line": 244820,
+        "hasElse": false,
+        "test": "!w",
+        "consequentStart": 244820,
+        "consequentEnd": 244839,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 244842,
+        "hasElse": false,
+        "test": "B.abortController.signal.aborted",
+        "consequentStart": 244842,
+        "consequentEnd": 244851,
+        "alternateStart": null,
+        "alternateEnd": null
+      }
+    ],
+    "switch": [],
+    "ternary": [
+      {
+        "line": 244854,
+        "test": "H instanceof Error"
+      }
+    ]
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": [
+      {
+        "line": 244852,
+        "left": "H",
+        "right": "cc5(...)",
+        "await": true
+      }
+    ]
+  },
+  "errorHandling": {
+    "try": [
+      {
+        "line": 244841,
+        "blockStart": 244841,
+        "blockEnd": 244853,
+        "hasCatch": true,
+        "catchStart": 244853,
+        "catchEnd": 244866,
+        "catchParam": "H",
+        "hasFinally": false,
+        "finallyStart": null,
+        "finallyEnd": null
+      }
+    ]
+  },
+  "returns": [
+    {
+      "line": 244838,
+      "hasArgument": false,
+      "argumentType": null
+    },
+    {
+      "line": 244850,
+      "hasArgument": false,
+      "argumentType": null
+    }
+  ],
+  "yields": [
+    {
+      "line": 244827,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 244849,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    },
+    {
+      "line": 244852,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "Identifier"
+    },
+    {
+      "line": 244855,
+      "delegate": false,
+      "hasArgument": true,
+      "argumentType": "CallExpression"
+    }
+  ],
+  "awaits": [],
+  "functionCalls": {
+    "[expr].find": [
+      {
+        "line": 244819,
+        "argumentCount": 1
+      }
+    ],
+    "x1": [
+      {
+        "line": 244821,
+        "argumentCount": 2
+      },
+      {
+        "line": 244843,
+        "argumentCount": 2
+      }
+    ],
+    "z5": [
+      {
+        "line": 244827,
+        "argumentCount": 1
+      },
+      {
+        "line": 244849,
+        "argumentCount": 1
+      },
+      {
+        "line": 244855,
+        "argumentCount": 1
+      }
+    ],
+    "Fi2": [
+      {
+        "line": 244848,
+        "argumentCount": 1
+      }
+    ],
+    "cc5": [
+      {
+        "line": 244852,
+        "argumentCount": 8
+      }
+    ],
+    "l1": [
+      {
+        "line": 244854,
+        "argumentCount": 1
+      }
+    ],
+    "String": [
+      {
+        "line": 244854,
+        "argumentCount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "branches": {
+    "if": [
+      {
+        "line": 244040,
+        "hasElse": false,
+        "test": "!G",
+        "consequentStart": 244040,
+        "consequentEnd": 244040,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 244049,
+        "hasElse": false,
+        "test": "V.includes(...)",
+        "consequentStart": 244049,
+        "consequentEnd": 244049,
+        "alternateStart": null,
+        "alternateEnd": null
+      },
+      {
+        "line": 244051,
+        "hasElse": false,
+        "test": "V.includes(...)",
+        "consequentStart": 244051,
+        "consequentEnd": 244055,
+        "alternateStart": null,
+        "alternateEnd": null
+      }
+    ],
+    "switch": [],
+    "ternary": []
+  },
+  "loops": {
+    "for": [],
+    "while": [],
+    "doWhile": [],
+    "forIn": [],
+    "forOf": [
+      {
+        "line": 244053,
+        "right": "w",
+        "await": false
+      }
+    ]
+  },
+  "errorHandling": {
+    "try": [
+      {
+        "line": 244041,
+        "blockStart": 244041,
+        "blockEnd": 244056,
+        "hasCatch": true,
+        "catchStart": 244056,
+        "catchEnd": 244058,
+        "catchParam": "B",
+        "hasFinally": false,
+        "finallyStart": null,
+        "finallyEnd": null
+      }
+    ]
+  },
+  "returns": [
+    {
+      "line": 244040,
+      "hasArgument": true,
+      "argumentType": "Identifier"
+    },
+    {
+      "line": 244049,
+      "hasArgument": true,
+      "argumentType": "Identifier"
+    },
+    {
+      "line": 244054,
+      "hasArgument": true,
+      "argumentType": "ObjectExpression"
+    },
+    {
+      "line": 244059,
+      "hasArgument": true,
+      "argumentType": "Identifier"
+    }
+  ],
+  "yields": [],
+  "awaits": [],
+  "functionCalls": {
+    "gO": [
+      {
+        "line": 244042,
+        "argumentCount": 1
+      }
+    ],
+    "[expr].replaceAll": [
+      {
+        "line": 244043,
+        "argumentCount": 2
+      }
+    ],
+    "S61": [
+      {
+        "line": 244043,
+        "argumentCount": 2
+      }
+    ],
+    "qV": [
+      {
+        "line": 244043,
+        "argumentCount": 1
+      }
+    ],
+    "V.includes": [
+      {
+        "line": 244049,
+        "argumentCount": 1
+      },
+      {
+        "line": 244051,
+        "argumentCount": 1
+      }
+    ],
+    "Ec5": [
+      {
+        "line": 244050,
+        "argumentCount": 1
+      }
+    ],
+    "X.replaceAll": [
+      {
+        "line": 244053,
+        "argumentCount": 2
+      }
+    ],
+    "l1": [
+      {
+        "line": 244057,
+        "argumentCount": 1
+      }
+    ]
+  }
+}
